@@ -1,0 +1,6 @@
+Election Hopes
+The elections in Chefland have concluded, and the results are in!
+Chef received X votes, and his rival Chefu received Y.
+
+Chef thinks he dominated the election if and only if he received at least double the number of votes Chefu received.
+Did Chef dominate the election?
