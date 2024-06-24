@@ -1,0 +1,10 @@
+Distribute Cookies
+
+Chef is making cookies for N kids. 
+He wants to give everyone an equal number of cookies. 
+1 cookie to each kid.
+
+Chef already has M cookies.
+He can destroy or make 1 cookie in 1 second.
+
+Find the minimum time after which he can evenly distribute the cookies between all kids.
