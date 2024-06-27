@@ -1,0 +1,7 @@
+Yoga Day
+Surya Namaskar, also known as Sun Salutation, is a series of 12 yoga poses performed in a sequence.
+
+Chef repeats this sequence of yoga poses multiple times during his session.
+
+Given that Chef has performed N yoga poses, 
+find the number of rounds of Surya Namaskar he completed during the session.
