@@ -1,0 +1,8 @@
+The Man Code
+
+In Chefland, it is illegal for two people to use adjacent urinals at the same time (as it should be).
+It is also obviously illegal for them to use the same urinal at the same time (as it definitely should be).
+
+There are N urinals in a row in Chefland.
+Find both the maximum and the minimum number of people that can use these N urinals simultaneously, 
+such that there is no place for another person to join.
