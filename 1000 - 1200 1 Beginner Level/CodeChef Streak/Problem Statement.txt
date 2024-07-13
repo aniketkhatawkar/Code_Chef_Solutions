@@ -1,0 +1,7 @@
+CodeChef Streak
+
+CodeChef offers a feature called streak count. 
+A streak is maintained if you solve at least one problem daily.
+Om and Addy actively maintain their streaks on CodeChef. 
+Over a span of N consecutive days, you have observed the count of problems solved by each of them.
+Your task is to determine the maximum streak achieved by Om and Addy and find who had the longer maximum streak.
