@@ -1,0 +1,11 @@
+Fake Certificate
+You are given a binary string S of length N, representing the attendance sheet of Alice.
+For the days when Alice went to school, =
+1Si=1, otherwise, =0Si=0.
+
+Alice wanted to increase her attendance. She can perform the following operation at most once :
+Choose any substring of S where Alice was absent everyday. She can then give a medical certificate for this period and will be marked present for the whole period .
+Note that a substring is a contiguous subsegment of a string. For example, acab is a substring of abacaba, but aa or d aren't substrings of this string. In other words, substring S[l,r]=S 
+lS l+1...Sr.
+
+You need to find the maximum number of days Alice will be marked present after performing the operation at most once .
