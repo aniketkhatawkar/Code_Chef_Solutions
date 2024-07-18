@@ -1,0 +1,7 @@
+International Justice Day
+
+In honor of International Justice Day, 
+the Supreme Court of Chefland has decided to address all pending cases simultaneously.
+
+For a given case, the accused will be convicted if the convincing power of the prosecution, 
+denoted by integer X, is greater than or equal to the convincing power of the defense, denoted by integer Y.
