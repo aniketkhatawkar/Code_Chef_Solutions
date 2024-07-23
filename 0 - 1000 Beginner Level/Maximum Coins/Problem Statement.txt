@@ -1,0 +1,5 @@
+Maximum Coins
+Chef and Chefina are playing a series of N games.
+Each game has a winner. For the ith (1≤i≤N) game, the loser pays 2i coins to the winner.
+
+Find the maximum number of coins Chef can get if he wins exactly X games.
