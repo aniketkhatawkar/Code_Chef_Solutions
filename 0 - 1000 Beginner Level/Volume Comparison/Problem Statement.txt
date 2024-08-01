@@ -1,0 +1,8 @@
+Volume Comparison
+
+Alice has two objects:
+
+A cuboid with length A units, height B units, and width C units.
+A cube with an edge length of X units.
+Alice wants to know which of the two objects has a larger volume, 
+or if their volumes are equal.
