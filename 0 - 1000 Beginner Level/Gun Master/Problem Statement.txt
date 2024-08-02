@@ -1,0 +1,10 @@
+Gun Master
+
+You have two guns: a close-range gun and a long-range gun.
+The close-range gun can only shoot targets at distances less than or equal to D, 
+while the long-range gun can only shoot targets at distances strictly greater than D.
+You can only hold one gun at a time. Initially, you are holding the close-range gun.
+You need to shoot at a series of N targets in order. The distance to the i-th target is Ai.
+
+Your task is to determine the minimum number of times you need to switch between,
+ the two guns to shoot all N targets in the given order.
