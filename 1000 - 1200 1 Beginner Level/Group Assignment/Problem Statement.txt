@@ -1,0 +1,6 @@
+Group Assignment
+Chef is hosting a party at his house and N people are invited to it. 
+Everyone has arrived and they are eager to make a group and chit-chat.
+
+The ith person prefers to be in a group of exactly Pi people (including himself). 
+A person who is not in a group of preferred size gets upset. Find whether Chef would be able to assign every person to a group such that everyone remains happy.
