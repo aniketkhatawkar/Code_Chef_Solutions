@@ -1,0 +1,15 @@
+Zero String
+You are given a binary string S of length N. 
+You are allowed to perform the following types of operations on string S:
+
+Delete any one character from S, 
+and concatenate the remaining parts of the string.
+ 
+For example, if we delete the third character of S=1101, 
+it becomes S=111.
+Flip all the characters of S. 
+
+For example, if we flip all character of 
+S=1101, it becomes S=0010.
+Given that you can use either type of operation any number of times, 
+find the minimum number of operations required to make all characters of the string S equal to 0.
