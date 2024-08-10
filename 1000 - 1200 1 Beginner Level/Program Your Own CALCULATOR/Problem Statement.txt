@@ -1,0 +1,13 @@
+Program Your Own CALCULATOR
+
+Write a program to obtain 2 numbers 
+( A and B) and an arithmetic operator (C)
+ and then design a calculator depending upon the operator entered by the user.
+
+So for example if C="+", you have to sum the two numbers.
+
+If C="-", you have to subtract the two numbers.
+
+If C=" * ", you have to print the product.
+
+If C=" / ", you have to divide the two numbers.
