@@ -1,0 +1,8 @@
+Digit Sum Parities
+For a positive integer M, 
+MoEngage defines digitSum(M) as the sum of digits of the number M (when written in decimal).
+
+For example, digitSum(1023)=1+0+2+3=6.
+
+Given a positive integer N, find the smallest integer X strictly greater than N such that:
+digitSum(N) and digitSum(X) have different parity, i.e. one of them is odd and the other is even.
