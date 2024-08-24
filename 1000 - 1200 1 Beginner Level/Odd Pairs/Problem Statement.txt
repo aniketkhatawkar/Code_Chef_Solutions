@@ -1,0 +1,3 @@
+Odd Pairs
+Given an integer N, 
+determine the number of pairs (A,B) such that:1≤A,B≤N;A+B is odd.
