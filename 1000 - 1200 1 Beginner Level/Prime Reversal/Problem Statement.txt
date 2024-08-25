@@ -1,0 +1,9 @@
+Prime Reversal
+You are given two binary strings Aand B, each of length N. 
+You can perform the following operation on string A any number of times:
+
+Select a prime number X.
+Choose any substring of string A having length X and reverse the substring.
+Determine whether you can make the string A equal to B using any (possibly zero) number of operations.
+
+A substring is obtained by deleting some (possibly zero) elements from the beginning and some (possibly zero) elements from the end of the string.
