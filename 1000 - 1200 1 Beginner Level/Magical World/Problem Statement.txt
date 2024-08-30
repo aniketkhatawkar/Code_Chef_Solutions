@@ -1,0 +1,11 @@
+Magical World
+Alice has two coloured shapes:
+
+A red rectangle with length A units, and width B units.
+A blue square with an edge length of X units.
+Alice lives in a magical world where the dimensions of red shapes can be changed.
+Each change in dimension costs 1 unit of money, 
+using which you can change any single dimension of a red object to any positive integer.
+
+Alice wants to make the area of the blue square greater than or equal to the area of the red rectangle.
+Find the minimum cost needed to make this possible.
