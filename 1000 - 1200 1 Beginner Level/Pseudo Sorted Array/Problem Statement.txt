@@ -1,0 +1,5 @@
+Pseudo Sorted Array
+An array A of length N is said to be pseudo-sorted if it can be made non-decreasing after performing the following operation at most once.
+
+Choose an i such that 1≤i≤N−1 and swap Ai and Ai+1
+​Given an array A, determine if it is pseudo-sorted or not.
