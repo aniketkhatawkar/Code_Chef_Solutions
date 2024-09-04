@@ -1,0 +1,10 @@
+String Game
+Alice and Bob are playing a game. They have a common string S of length N. 
+The players also have their individual strings A (belonging to Alice) and B (belonging to Bob) which are empty in the beginning. 
+Game begins with Alice and both players take alternate turns.
+
+In her/his turn, the player picks a single character from string S, 
+adds it to the end of their individual string and deletes the picked character from string S.
+
+The game continues until string S is empty. 
+Find whether there exists a sequence of moves such that the strings A and B are same at the end of the game.
