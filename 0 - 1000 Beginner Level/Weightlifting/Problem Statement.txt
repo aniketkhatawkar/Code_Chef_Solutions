@@ -1,0 +1,12 @@
+Weightlifting
+Chef, being an international powerlifter, has participated in a powerlifting competition.
+
+The competition consists of three rounds, i.e., squat, bench press, and, deadlift. In each round, the goal is to lift maximum weight, 
+and Chef gets two attempts to do that.
+
+For each round, the score of best attempt is taken into consideration and the total score is calculated as the sum of scores of all rounds.
+
+You are given Chef's score in both attempts of rounds 
+1,2, and 3, as 
+A1,A2,B1,B2,C1, and C2 respectively. 
+Find the value of Chef's total score in the competition.
