@@ -1,0 +1,7 @@
+Spell Splice
+Chef has N magic spells. The i-th spell has a volatility of Vi and a strength of Ai.
+
+When spells i and j (1≤i<j≤N) are activated together, they merge to form a single spell of strength 
+(Ai×Vj+Vi×Aj).
+
+What's the maximum possible strength of a spell Chef can obtain by activating exactly two of his spells?
