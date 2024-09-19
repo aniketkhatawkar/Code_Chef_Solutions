@@ -1,0 +1,10 @@
+Chess Olympiad
+The 45-th FIDE Chess Olympiad is currently being held in Budapest, Hungary.
+
+Every round, teams of four players each face off against each other in four individual games.
+A team receives 1 point for winning a game, 0.5 points for a draw, and 0 points for a loss.
+
+A team is said to win the round if they receive strictly more points than the opposing team.
+
+In the current round, your favorite team has already won X games, drawn Y games, and lost Z games.
+Can they still win this round?
