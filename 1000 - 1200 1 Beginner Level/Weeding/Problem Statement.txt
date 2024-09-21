@@ -1,0 +1,11 @@
+Weeding
+Chef purchased a new herbicide, and now wants to test its effectiveness.
+
+Initially, there are no weeds in Chef's garden.
+For each i=1,2,3,…,N, exactly one new weed will pop up in the garden at the start of day A i .
+It is known that A1<A2<…<A N.
+
+Chef can spray the herbicide at most once per day.
+Any weed that receives the spray K or more times in total will die.
+
+Chef would like to know: is it possible that after M days, all the weeds are gone?
