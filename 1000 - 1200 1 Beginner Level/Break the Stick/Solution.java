@@ -17,28 +17,13 @@ class Codechef
 		for(int t=0; t<test; t++) {
 		    
 		    int n = input.nextInt();
-		    int p = input.nextInt();
+		    int x = input.nextInt();
 		    
-		    int ans=0;
-		    
-		    
-		    for(int i=0; i<n; i++){
-		        int a = input.nextInt();
-		        int b = input.nextInt();
-		        int c = input.nextInt();
-		        
-		        if(c<=p){
-		            if(a*b>ans){
-		                ans=a*b;
-		            }
-		        }
-		    }
-		    
-		    if(ans!=0){
-		        System.out.println(ans);
+		    if(n%2==1 && x%2==0) {
+		        System.out.println("NO");
 		    }
 		    else {
-		        System.out.println("no tablet");
+		        System.out.println("YES");
 		    }
 		}
 	}
