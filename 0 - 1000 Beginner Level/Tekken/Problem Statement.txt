@@ -1,0 +1,5 @@
+Tekken
+The ultimate battle has begun in Tekken.
+Each fight has two players. Let the initial health of the players be X and Y, then, after the fight, the health of both the players reduces by min(X, Y).
+Anna, Bob, and Claudio have initial health levels of A,B, and C respectively. Each pair of players fight exactly once.
+Considering that you can schedule the fight between each pair in any order, find whether Anna can have a positive health level at the end of the battle.
