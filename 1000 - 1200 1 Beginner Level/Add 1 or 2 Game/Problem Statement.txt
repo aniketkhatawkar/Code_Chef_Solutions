@@ -1,0 +1,9 @@
+Add 1 or 2 Game
+Alice and Bob play a game.
+There is an integer X, which is initially 0. On their turn,
+ Alice or Bob can choose to increment X by either 1 or 2.
+
+The game ends as soon as X≥N holds. When the game ends, 
+Bob wins the game if X=N, otherwise Alice wins the game.
+Alice goes first, and the players alternate turns.
+If both players play optimally, predict the winner.
