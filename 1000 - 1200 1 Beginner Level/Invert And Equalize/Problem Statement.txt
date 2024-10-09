@@ -1,0 +1,7 @@
+Invert And Equalize
+You are given a binary string S of length N. You can perform the following operation on it:
+
+Choose a continuous substring such that all of its characters are equal, and then invert the whole substring (i.e., if they were 0, change them to 1 and vice versa).
+For example, suppose S=101111000. We may choose the substring 101111000 and change it to 100000000.
+
+Find the minimum number of such operations needed to make all characters of S equal.
