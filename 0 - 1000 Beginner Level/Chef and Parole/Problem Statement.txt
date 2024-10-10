@@ -1,0 +1,4 @@
+Chef and Parole
+Chef must spend at least 7 days in prison to be released on parole.
+
+Given the number of days he spent, output YES if will be released, otherwise NO.
