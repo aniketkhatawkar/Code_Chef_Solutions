@@ -1,0 +1,7 @@
+Rectangled
+Chef loves rectangles and he wants to draw one with the largest area possible,
+ but the problem is that his pen has only enough ink left to draw a total of N unit length of line.
+
+Help him find the largest area of a rectangle which he can draw if he wants to draw rectangles with integral sides only.
+
+Note that he does NOT need to finish all the ink.
