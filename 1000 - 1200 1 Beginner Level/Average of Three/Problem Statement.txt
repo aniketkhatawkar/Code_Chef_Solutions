@@ -1,0 +1,203 @@
+Average of Three
+It is Chef's birthday. You know that Chef's favourite number is X. You also know that Chef loves averages. Therefore you decide it's best to gift Chef 3 integers 
+A
+1
+,
+A
+2
+,
+A
+3
+A 
+1
+​
+ ,A 
+2
+​
+ ,A 
+3
+​
+ , such that:
+
+The mean of 
+A
+1
+,
+A
+2
+A 
+1
+​
+ ,A 
+2
+​
+  and 
+A
+3
+A 
+3
+​
+  is 
+X
+X.
+1
+≤
+A
+1
+,
+A
+2
+,
+A
+3
+≤
+1000
+1≤A 
+1
+​
+ ,A 
+2
+​
+ ,A 
+3
+​
+ ≤1000.
+A
+1
+,
+A
+2
+A 
+1
+​
+ ,A 
+2
+​
+  and 
+A
+3
+A 
+3
+​
+  are distinct.
+Output any suitable 
+A
+1
+,
+A
+2
+A 
+1
+​
+ ,A 
+2
+​
+  and 
+A
+3
+A 
+3
+​
+  which you could gift to Chef.
+
+As a reminder, the mean of three numbers 
+P
+,
+Q
+,
+R
+P,Q,R is defined as: 
+m
+e
+a
+n
+(
+P
+,
+Q
+,
+R
+)
+=
+P
++
+Q
++
+R
+3
+mean(P,Q,R)= 
+3
+P+Q+R
+​
+ .
+
+For example, 
+m
+e
+a
+n
+(
+2
+,
+3
+,
+5
+)
+=
+2
++
+3
++
+5
+3
+=
+10
+3
+=
+3.33
+3
+ˉ
+mean(2,3,5)= 
+3
+2+3+5
+​
+ = 
+3
+10
+​
+ =3.33 
+3
+ˉ
+ , 
+m
+e
+a
+n
+(
+2
+,
+2
+,
+5
+)
+=
+2
++
+2
++
+5
+3
+=
+9
+3
+=
+3
+mean(2,2,5)= 
+3
+2+2+5
+​
+ = 
+3
+9
+​
+ =3.
