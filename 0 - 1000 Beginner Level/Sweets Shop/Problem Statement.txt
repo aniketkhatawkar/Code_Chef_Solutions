@@ -1,0 +1,12 @@
+Sweets Shop
+Sushil went to a sweet shop because he always craves to eat sweets. This is not good for his health as he has diabetes, but he doesn't care. A laddu costs Rs. 
+10
+10 while a jalebi costs Rs. 
+20
+20.
+
+Initially, Sushil had Rs. 
+X
+X but then Sushil bought 
+N
+N laddus, how many jalebis can he buy with the remaining money?
