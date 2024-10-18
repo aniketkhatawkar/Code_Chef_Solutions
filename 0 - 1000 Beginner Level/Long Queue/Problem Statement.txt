@@ -1,0 +1,11 @@
+Long Queue
+Unfortunately as soon as Sushil reached the sweet shop, he saw there was a huge queue. At first, Sushil joins at the end of the line. 
+But he is impatient and now has decided to bully people in front of him, by flexing his wealth, so that they let him proceed.
+
+There are N people in the line, with the i-th person having a wealth of Rs. Ai. 
+Sushil is currently the N-th person in this line.
+
+Everytime Sushil sees that the person directly in front of him has a wealth less than or equal to half of his own wealth, Sushil will bully him out of the line, and the queue will reduce by 1.
+Note that Sushil can only bully the person directly infront of him.
+
+More formally, if Sushil has wealth X, he can bully people with wealth smaller than or equal to X/2. Find the final position of Sushil.
