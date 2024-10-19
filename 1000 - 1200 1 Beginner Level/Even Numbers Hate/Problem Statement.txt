@@ -1,0 +1,94 @@
+Even Numbers Hate
+Sushil has an array 
+A
+A of 
+N
+N integers - 
+A
+1
+,
+A
+2
+,
+.
+.
+.
+,
+A
+N
+A 
+1
+​
+ ,A 
+2
+​
+ ,...,A 
+N
+​
+ . He constructs a new array from it, the prefix sum array 
+P
+=
+[
+P
+1
+,
+P
+2
+,
+.
+.
+.
+,
+P
+N
+]
+P=[P 
+1
+​
+ ,P 
+2
+​
+ ,...,P 
+N
+​
+ ], where 
+P
+i
+=
+A
+1
++
+A
+2
++
+.
+.
+.
++
+A
+i
+P 
+i
+​
+ =A 
+1
+​
+ +A 
+2
+​
+ +...+A 
+i
+​
+ , i.e. the sum of the first 
+i
+i elements.
+
+Sushil hates even numbers but he likes odd numbers, and thus wants to sure there are as many odd numbers as possible in the prefix sum array 
+P
+P. He is allowed to play with the array 
+A
+A and rearrange it arbitrarily. Find the maximum number of odd numbers in the prefix sum array 
+P
+P if Sushil rearranges the array 
+A
+A optimally.
