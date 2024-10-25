@@ -1,0 +1,12 @@
+Glass Prices
+Chef is buying spectacles, and is now deciding on which frame to purchase.
+
+Chef has narrowed his options down to two choices: a plastic frame that costs 
+X
+X rupees, and a metal frame that costs 
+Y
+Y rupees.
+
+Chef will buy the metal frame if and only if it costs at most twice the price of the plastic frame - otherwise he will buy the plastic frame.
+
+Can you decide which frame Chef will buy?
