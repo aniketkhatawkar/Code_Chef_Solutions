@@ -1,0 +1,35 @@
+Positive Products
+You are given an array 
+A
+A of length 
+N
+N. Find the number of pairs of indices 
+(
+i
+,
+j
+)
+(i,j) such that
+
+1
+≤
+i
+<
+j
+≤
+N
+1≤i<j≤N
+A
+i
+⋅
+A
+j
+>
+0
+A 
+i
+​
+ ⋅A 
+j
+​
+ >0
