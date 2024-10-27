@@ -1,0 +1,8 @@
+Max Nutrition
+You are trying to be more healthy, and thus have decided to eat only fruits. You have lots of fruits of different types, but you get bored of a specific fruit type very quickly — so you will never repeat fruit types that you eat, i.e. you will eat at most one fruit of each type.
+
+You have N fruits, the i-th fruit being of type Ai and providing you a nutrition value of Bi.
+Some fruits are rotten, so Bi can be negative.
+
+Find the maximum possible sum of nutrition values of the fruits you eat, under the constraint of never repeating fruit types.
+Note that you may choose to eat no fruits as well, which would give you 0 nutrition.
