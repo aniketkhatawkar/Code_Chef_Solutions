@@ -1,0 +1,12 @@
+
+Even vs Odd Divisors
+Given an integer N, let f(N) denote the number of even divisors of g(N) denote the number of odd divisors of N.
+For example, the divisors of 6 are 1,2,3 and 6. f(N)=2,g(N)=2 as there are 2 even and 2 odd numbers in this list;.
+
+Find whether f(N)>g(N) or f(N)=g(N) or f(N)<g(N).
+
+Output
+
+1 if f(N)>g(N)
+0 if f(N)=g(N)
+−1 if f(N)<g(N)

@@ -1,0 +1,5 @@
+Diwali Discount
+Chef is trying to buy a Diwali gift for Rs. A, 
+and he has a voucher for Rs. B. Chef will have to pay the remaining amount after applying the voucher. If the voucher's value exceeds the gift's value, Chef will not have to pay anything.
+
+Find the amount that Chef will pay for buying the gift.
