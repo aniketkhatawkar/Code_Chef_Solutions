@@ -1,0 +1,10 @@
+Chef and Game with Sequence
+
+Chef has a sequence A containing N integers A1, A2, ..., AN.
+
+Chef is playing a game with this sequence. In this game, he may perform the following operation any number of times (including zero): 
+Choose an arbitrary pair of elements from the sequence such that their sum is even, delete these two elements from the sequence and insert their sum into the sequence instead.
+
+The goal of the game is to minimise the number of elements in the sequence.
+
+Help Chef to play the game and find the minimum possible size of the sequence at the end of the game!
