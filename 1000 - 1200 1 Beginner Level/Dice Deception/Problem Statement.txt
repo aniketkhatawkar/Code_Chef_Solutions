@@ -1,0 +1,16 @@
+Dice Deception
+
+Alice and Bob are playing a board game.
+On their turn, a player must roll N standard 6-sided dice, and their action will be determined by the sum of values on the top faces of the N dice.
+
+On a certain turn of Alice, she rolls the dice and obtains the sequence of values A1,A2,…,AN on the top faces.
+However, Bob isn't paying attention, allowing Alice to cheat a little!
+
+Alice can choose a die, and flip it - so the opposite face is upward.
+Note that these are standard 6-sided dice, so the sum of values on opposite faces is 7. That is:
+
+1 is opposite to 6.
+2 is opposite to 5.
+3 is opposite to 4.
+So as to not make Bob suspicious, Alice can perform this flipping operation at most K times.
+What's the maximum score (i.e, sum of values of top faces of the dice) she can obtain?
