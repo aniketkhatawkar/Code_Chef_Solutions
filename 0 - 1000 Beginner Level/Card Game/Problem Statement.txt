@@ -1,0 +1,5 @@
+Card Game
+There is a set of N cards where each card is numbered 1 to N.
+
+Chef throws a card numbered X.
+Find the number of ways, Chefina can chose a card from the remaining deck such that, the sum of chosen card and X is even.
