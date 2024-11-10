@@ -1,0 +1,16 @@
+Find Multiset State
+You are given an array A of length N, along with an integer K.
+It is known that A is sorted in non-descending order, that is, Ai≤A i+1 for every 1≤i<N.
+
+Repeat the following three-step operation K times:
+
+First, find min(A)=X and max(A)=Y, i.e. the minimum and maximum elements in the array.
+Delete X and Y from A (if there exists multiple occurrences, delete only 1)
+Append X+Y to the back of A.
+Note that after this, the length of A will have decreased by 1.
+For example, if A=[1,1,2,3], performing the operation once will result in 
+A=[1,2,4], because we delete one occurrence of the maximum and minimum elements (
+3 and 1 respectively), and append their sum 
+3+1=4 to the array.
+
+Find the final array A after all K operations have been performed.
