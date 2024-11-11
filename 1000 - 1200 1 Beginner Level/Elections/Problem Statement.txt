@@ -1,0 +1,8 @@
+Elections
+Two candidates, A and B, are contesting an election across N states (where N is odd). A candidate wins in a state if they receive more votes than their opponent. 
+The candidate who wins in more than half of the states, wins the election.
+
+In the i th state, candidate A has received Ai votes and candidate B has received Bi votes.
+
+Chef has the power to cast X votes, and he can distribute these votes between multiple states to help candidate A. 
+Determine if these additional X votes could secure enough state victories for Candidate A to win the election.
