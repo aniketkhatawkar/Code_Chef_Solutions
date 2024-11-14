@@ -1,0 +1,5 @@
+Hidden Numbers
+Salmon has some hidden numbers that he wants you to find!
+
+Given an integer N, find and output any two integers A and B such that:
+1≤A,B≤9, and A∗B=N.
