@@ -1,0 +1,10 @@
+Chocolate Distribution
+Chef has a total of 
+N(N≥4) chocolates. He decided to distribute them into three jars such that:
+
+At least one jar has odd number of chocolates;
+Exactly two jars have same number of chocolates;
+Every jar has at least one chocolate.
+Find a valid distribution of chocolates for Chef.
+
+Note that a valid distribution always exists. If multiple such distributions exist, you may print any.

@@ -1,0 +1,90 @@
+Slow Solution
+Chef is trying to solve a problem having T test cases, where, for each test case he is given a single integer N.
+
+Chef has an algorithm which takes exactly N2 iterations for a test case with value N.
+
+The constraints of the problem are as follows:1≤T≤maxT1≤N≤maxN
+Sum of N over all test cases does not exceed sumN.
+Given the values maxT,maxN, and sumN, determine the maximum number of iterations Chef's algorithm can take for any valid input file satisfying all the constraints.
+
+Formally speaking, find the maximum value of 
+N
+1
+2
++
+N
+2
+2
++
+⋯
++
+N
+T
+2
+N 
+1
+2
+​
+ +N 
+2
+2
+​
+ +⋯+N 
+T
+2
+​
+  for:
+
+1
+≤
+T
+≤
+m
+a
+x
+T
+1≤T≤maxT
+1
+≤
+N
+i
+≤
+m
+a
+x
+N
+1≤N 
+i
+​
+ ≤maxN
+N
+1
++
+N
+2
++
+N
+3
++
+⋯
++
+N
+T
+≤
+s
+u
+m
+N
+N 
+1
+​
+ +N 
+2
+​
+ +N 
+3
+​
+ +⋯+N 
+T
+​
+ ≤sumN
