@@ -1,0 +1,9 @@
+Multiple Choice Exam
+
+Chef is taking a cooking exam. The exam consists of N multiple-choice questions numbered 1 through N. In each question, Chef may choose one out of four choices: A, B, C and D, or leave the question unanswered.
+
+Answering a question correctly gives Chef 1 point. Not answering a question or answering it incorrectly gives him 0 points. However, there is a penalty for wrong answers. Specifically, the questions are graded one by one from question 1 to question N; for each i (1≤i≤N−1), if Chef answered the 
+i-th question incorrectly, his answer to the next question (the 
+(i+1)-th question) is discarded without being graded. If an answer is discarded, Chef gets o points for it automatically, but even if it was wrong, the next answer is not discarded. There is no penalty for answering the last question incorrectly or for not answering some questions.
+
+You are given the correct answers to all N questions and Chef's answers. Calculate the total number of points Chef scored on the exam.
