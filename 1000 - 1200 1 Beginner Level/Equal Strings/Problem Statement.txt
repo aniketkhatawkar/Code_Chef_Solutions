@@ -1,0 +1,8 @@
+Equal Strings
+Given a string A of length N consisting of lowercase English alphabet letters.
+
+You are allowed to perform the following operation on the string A any number of times:
+
+Select a non-empty subsequence S of the array [1,2,3,…,N] and any lowercase English alphabet α;
+Change A i to α for all i∈S.
+Find the minimum number of operations required to convert A into a given string B of length N consisting of lowercase English alphabet letters.
