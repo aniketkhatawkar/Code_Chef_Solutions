@@ -1,0 +1,6 @@
+Moneymaking
+Chef has X nuggets and Y star pieces with him.
+
+Each nugget sells for 5000 coins, and each star piece sells for 9800 coins.
+
+How much money can Chef make by selling all of his items?
