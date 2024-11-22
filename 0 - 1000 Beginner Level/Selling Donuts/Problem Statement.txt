@@ -1,0 +1,7 @@
+Selling Donuts
+Chef owns a donut shop, which sells N different types of donuts, numbered from 1 to N.
+
+Today, he baked Ai donuts of the i-th type.M customers will visit the shop. The i-th customer wants to buy exactly one donut of type Bi.
+If Chef has no remaining donuts of type i, the i-th customer will become sad.
+
+How many customers will become sad?
