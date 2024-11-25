@@ -1,0 +1,41 @@
+Chef and Difficult Contests
+
+Oh, these difficult contests... In each contest, there are so many hard tasks Chef cannot solve. However, he knows that he can only become a successful coder if he works hard. Fortunately, he has a problem in mind for training.
+
+You are given two positive integers 
+a
+a and 
+b
+b. You may apply the following magical operation any number of times (including zero):
+
+choose an arbitrary positive integer 
+d
+d
+perform exactly one of the following actions:
+add 
+d
+d to 
+a
+a, add 
+d
+−
+1
+d−1 to 
+b
+b
+add 
+d
+−
+1
+d−1 to 
+a
+a, add 
+d
+d to 
+b
+b
+Chef is asking you to find out if it is possible to obtain 
+a
+=
+b
+a=b. Help him!
