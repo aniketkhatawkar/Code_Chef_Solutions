@@ -1,0 +1,15 @@
+Butterfly
+In your garden, there are exactly 
+R red butterflies, 
+G green butterflies and 
+B blue butterflies.
+There are also exactly 
+R red flowers, 
+G green flowers and 
+B blue flowers.
+
+Determine whether it is possible for every butterfly to feed on exactly one flower, such that:
+
+No two butterflies feed on the same flower; and
+Each butterfly feeds on a flower whose color is different from its own color.
+For example, a red butterfly can only feed on green and blue flowers, not red flowers.
