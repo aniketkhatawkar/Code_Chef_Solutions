@@ -1,0 +1,7 @@
+Calorie Intake
+Chef has decided that he will cut down on his calorie intake. 
+He will eat atmost X calories in a day.
+
+Today, he already ate Y sweets, each having Z calories. 
+Find out how many more calories he can eat. 
+If he has already exceeded his limit, output −1.
