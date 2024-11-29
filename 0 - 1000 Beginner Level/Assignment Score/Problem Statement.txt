@@ -1,0 +1,3 @@
+Assignment Score
+Chef has a total of N+1 assignments. He knows his score on the first N of them, and he is now working on his last assignment. His scores in the first N assignment are A1 ,A2,...,AN. Each of them are graded out of 100 marks, and his total marks is just a sum of all his N+1 assignment marks.
+Chef is now worried about he might fail in his course. He will fail if he scores less than 50% of the total marks. Can you help Chef find what is the minimum score he needs to get to not fail? It may be impossible for Chef to pass, output −1 then.
