@@ -1,0 +1,7 @@
+Make Arithmetic Progression
+You are given three positive integers X,Y, and Z.
+In one operation, you can choose any one of these values, and change it to any integer of your choice.
+
+Find the minimum number of operations required to make the sequence 
+(X,Y,Z) an arithmetic progression.
+Note that (X,Y,Z) is an arithmetic progression if and only if Y−X=Z−Y.
