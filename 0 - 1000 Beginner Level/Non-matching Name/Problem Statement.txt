@@ -1,0 +1,53 @@
+Non-matching Name
+Alice and Bob invented a brand-new algorithm - but they can't decide what to name it!
+
+Alice suggested the name 
+S
+A
+S 
+A
+​
+ , and Bob suggested the name 
+S
+B
+S 
+B
+​
+ . (
+S
+A
+S 
+A
+​
+  and 
+S
+B
+S 
+B
+​
+  are both strings of lowercase English letters.)
+
+However, Alice thinks Bob's naming sense is really bad - she'll only be happy if the name given to the algorithm is not close to 
+S
+B
+S 
+B
+​
+  at all.
+More specifically, Alice will be happy if and only if the algorithm's name does not share any characters with 
+S
+B
+S 
+B
+​
+ .
+
+Similarly, Bob thinks Alice's naming sense is really bad, and will only be happy if the algorithm's name doesn't share any characters with 
+S
+A
+S 
+A
+​
+ .
+
+Is there a way to name the algorithm (using only lowercase English letters) so that both Alice and Bob are happy?
