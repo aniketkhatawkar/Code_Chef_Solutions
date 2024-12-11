@@ -1,0 +1,13 @@
+Avoid Squares Please
+You are given an integer N.
+
+Print a permutation 
+P of [1,2,…,N] such that the following condition holds:
+
+For any index i (1≤i<N), Pi××P i+1
+​
+  is not a perfect square.
+If there are multiple correct answers, you may print any of them.
+
+Note: A permutation of 
+[1,2,…,N] is a rearrangement of those numbers.
