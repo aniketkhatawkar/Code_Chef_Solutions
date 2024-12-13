@@ -1,0 +1,28 @@
+Itz Simple
+Ved and Varun are both members of Shaastra’s CnL team this year. While they are equally skilled in programming, they differ in height. Ved’s height is 
+K
+K, and Varun’s height is 
+P
+P.
+
+Both want to watch a movie in OAT from outside the gate, without entering. There are 
+N
+N chairs available outside OAT, each with a height represented as 
+A
+i
+A 
+i
+​
+ . These chairs can be stacked on top of each other to create a platform, allowing them to stand on it for a better view of the movie.
+
+Tej, the OAT security officer, gives all the chairs to Varun, except for one - the tallest chair, which is given to Ved.
+
+Now, Tej wants to know who will have a better view of the movie. If Ved has a better view, print 
+Ved
+Ved. If Varun has a better view, print 
+Varun
+Varun. If both have the same view, print 
+Equal
+Equal.
+
+Note : A person is said to have a better view if they can get a better combined height by stacking their chairs and standing on top of them.
