@@ -1,0 +1,30 @@
+Sort the String
+You have a binary string 
+S
+S of length 
+N
+N. In one operation you can select a substring of 
+S
+S and reverse it. For example, on reversing the substring 
+S
+[
+2
+,
+4
+]
+S[2,4] for 
+S
+=
+11000
+S=11000, we change 
+1
+100
+0
+→
+1
+001
+0
+11000→10010.
+
+Find the minimum number of operations required to sort this binary string.
+It can be proven that the string can always be sorted using the above operation finite number of times.
