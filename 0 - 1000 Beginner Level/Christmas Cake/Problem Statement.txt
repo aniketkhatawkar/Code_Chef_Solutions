@@ -1,0 +1,7 @@
+Christmas Cake
+Chef plans to celebrate Christmas by baking a cake.
+
+Christmas falls on the 25-th of December.
+Every day before Christmas, till the 24-th of December, Chef will bake exactly one practice cake.
+
+Today is the X-th of December. How many practice cakes will Chef bake starting from today?
