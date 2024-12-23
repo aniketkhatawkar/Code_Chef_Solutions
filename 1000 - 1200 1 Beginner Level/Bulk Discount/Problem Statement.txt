@@ -1,0 +1,25 @@
+Bulk Discount
+A shop has 
+N
+N items for sale. The 
+i
+i-th item has a cost of 
+A
+i
+A 
+i
+​
+ .
+
+You would like to purchase all 
+N
+N items.
+The shop offers a discount: whenever an item is bought, all future purchases have their costs reduced by 
+1
+1. However, the cost of an item also cannot fall below 
+0
+0.
+
+You can buy the items in any order you like. What's the minimum possible cost of purchasing all 
+N
+N items?

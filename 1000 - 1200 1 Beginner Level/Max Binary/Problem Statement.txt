@@ -1,0 +1,63 @@
+Max Binary
+Chef has a binary strings 
+S
+S of length 
+N
+N, and an integer 
+K
+K.
+Hitesh wants to maximize the decimal representation of 
+S
+S using 
+K
+K operations of the following type:
+
+Type 
+1
+1: Insert 
+0
+0 at any position in the string.
+Type 
+2
+2: Change any 
+0
+0 to 
+1
+1.
+Help Hitesh find the modified string with maximum possible decimal representation after performing at most 
+K
+K operations.
+
+Note that the decimal representation of a binary string refers to the numeric value it represents when converted to the decimal number system. For instance, the decimal representation of 
+101
+101 will be 
+5
+5 
+(
+2
+2
++
+2
+0
+)
+(2 
+2
+ +2 
+0
+ ), and that of 
+000110
+000110 will be 
+6
+6 
+(
+2
+2
++
+2
+1
+)
+(2 
+2
+ +2 
+1
+ )
