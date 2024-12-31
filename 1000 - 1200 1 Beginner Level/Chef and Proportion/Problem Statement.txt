@@ -1,0 +1,4 @@
+Chef and Proportion
+
+Chef recently learned about ratios and proportions. He wrote some positive integers a, b, c, d on a paper.
+ Chef wants to know whether he can shuffle these numbers so as to make some proportion? Formally, four numbers x, y, z, w are said to make a proportion if ratio of x : y is same as that of z : w.

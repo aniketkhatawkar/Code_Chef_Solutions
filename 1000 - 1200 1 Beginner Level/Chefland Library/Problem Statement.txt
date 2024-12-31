@@ -1,0 +1,13 @@
+Chefland Library
+In the Chefland Library, there is a penalty system for late book returns with the following rules:
+
+For each book returned late, penalty points equal the number of days the book is overdue.
+When multiple books are returned on the same day, only the highest penalty among those books is counted.
+Chef has borrowed N books from the library. For the i th
+  book (1≤i≤N):
+
+It was returned i days late.
+It was returned on day A i
+​
+ .
+Calculate the total penalty points Chef must pay.

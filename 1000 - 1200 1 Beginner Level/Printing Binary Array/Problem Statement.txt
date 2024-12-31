@@ -1,0 +1,134 @@
+Printing Binary Array
+Consider a binary array 
+B
+=
+B
+1
+,
+B
+2
+,
+…
+,
+B
+M
+B=B 
+1
+​
+ ,B 
+2
+​
+ ,…,B 
+M
+​
+  of length 
+M
+M. Being a binary array means that every 
+B
+i
+B 
+i
+​
+  is either 
+0
+0 or 
+1
+1.
+S
+c
+o
+r
+e
+(
+B
+)
+Score(B) is defined as the number of indices 
+i
+i 
+(
+(where 
+1
+≤
+i
+<
+M
+)
+1≤i<M) such that 
+B
+i
+≠
+B
+i
++
+1
+B 
+i
+​
+ =B 
+i+1
+​
+ .
+
+You are given a binary array 
+A
+=
+A
+1
+,
+A
+2
+,
+…
+,
+A
+N
+A=A 
+1
+​
+ ,A 
+2
+​
+ ,…,A 
+N
+​
+  of length 
+N
+N. Print a binary array 
+C
+C of length 
+N
+N such that
+
+A
+≠
+C
+A=C, and
+S
+c
+o
+r
+e
+(
+A
+)
+=
+S
+c
+o
+r
+e
+(
+C
+)
+Score(A)=Score(C).
+That is, print a binary array 
+C
+C which is not identical to 
+A
+A, but has the same Score as that of 
+A
+A.
+
+It can be proven that such a 
+C
+C always exists.
