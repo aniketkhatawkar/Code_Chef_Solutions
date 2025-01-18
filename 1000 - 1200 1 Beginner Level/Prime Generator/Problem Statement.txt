@@ -1,0 +1,4 @@
+Prime Generator
+Ram wants to generate some prime numbers for his cryptosystem. Help him please! Your task is to generate all prime numbers between two given numbers.
+
+Warning: large Input/Output data, be careful with certain languages (though most should be OK if the algorithm is well designed)

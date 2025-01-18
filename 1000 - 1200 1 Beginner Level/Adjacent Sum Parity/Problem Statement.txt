@@ -1,0 +1,94 @@
+Adjacent Sum Parity
+Chef has an array 
+A
+A of length 
+N
+N.
+
+Chef forms a binary array 
+B
+B of length 
+N
+N using the parity of the sums of adjacent elements in 
+A
+A. Formally,
+
+B
+i
+=
+(
+A
+i
++
+A
+i
++
+1
+)
+ 
+%
+ 
+2
+B 
+i
+​
+ =(A 
+i
+​
+ +A 
+i+1
+​
+ )%2 for 
+1
+≤
+i
+≤
+N
+−
+1
+1≤i≤N−1
+B
+N
+=
+(
+A
+N
++
+A
+1
+)
+ 
+%
+ 
+2
+B 
+N
+​
+ =(A 
+N
+​
+ +A 
+1
+​
+ )%2
+Here 
+x
+ 
+%
+ 
+y
+x%y denotes the remainder obtained when 
+x
+x is divided by 
+y
+y.
+
+Chef lost the array 
+A
+A and needs your help. Given array 
+B
+B, determine whether there exists any valid array 
+A
+A which could have formed 
+B
+B.

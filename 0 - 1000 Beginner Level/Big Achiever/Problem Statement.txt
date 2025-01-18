@@ -1,0 +1,60 @@
+Big Achiever
+Given 
+N
+N students standing in a row, each student 
+i
+i has an distinct achievement score 
+A
+i
+A 
+i
+​
+  provided in an array 
+A
+=
+[
+A
+1
+,
+A
+2
+,
+…
+,
+A
+n
+]
+A=[A 
+1
+​
+ ,A 
+2
+​
+ ,…,A 
+n
+​
+ ]. The array 
+A
+A consists of distinct integers from 
+1
+1 to 
+N
+N.
+
+A student 
+i
+i ( 
+1
+≤
+i
+≤
+N
+1≤i≤N ) will be happy if their achievement score 
+A
+i
+A 
+i
+​
+  is greater than the achievement scores of all the students standing before them in the array.
+
+The task is to print whether a student is happy or not.

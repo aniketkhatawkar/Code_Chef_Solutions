@@ -1,0 +1,3 @@
+Count of Maximum
+Given an array A of length N, your task is to find the element which repeats in A maximum number of times as well as the corresponding count. 
+In case of ties, choose the smaller element first.

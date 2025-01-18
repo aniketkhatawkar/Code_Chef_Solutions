@@ -1,0 +1,89 @@
+Hostel Room
+There are initially 
+X
+X people in a room.
+
+You are given an array 
+A
+A of length 
+N
+N which describes the following events:
+
+If 
+A
+i
+≥
+0
+A 
+i
+​
+ ≥0, then 
+A
+i
+A 
+i
+​
+  people enter the room at 
+i
+i-th minute. For e.g. if 
+A
+2
+=
+3
+A 
+2
+​
+ =3, then 
+3
+3 people enter the room at the 
+2
+2-nd minute.
+If 
+A
+i
+<
+0
+A 
+i
+​
+ <0, then 
+∣
+A
+i
+∣
+∣A 
+i
+​
+ ∣ people leave the room at 
+i
+i-th minute. Here 
+∣
+A
+i
+∣
+∣A 
+i
+​
+ ∣ denotes the absolute value of 
+A
+i
+A 
+i
+​
+ . For e.g. if 
+A
+4
+=
+−
+2
+A 
+4
+​
+ =−2, then 
+2
+2 people leave the room at the 
+4
+4-th minute.
+Determine the maximum number of people in the room at any moment of time.
+
+It is guaranteed in the input that at any moment of time, the number of people in the room does not become negative.

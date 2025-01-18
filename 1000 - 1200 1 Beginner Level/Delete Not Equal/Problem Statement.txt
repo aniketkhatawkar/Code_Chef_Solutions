@@ -1,0 +1,49 @@
+Delete Not Equal
+Given a binary string 
+S
+S, we can perform the following operation as many times as we want:
+
+Choose 
+i
+i such that 
+1
+≤
+i
+<
+∣
+S
+∣
+1≤i<∣S∣ and 
+S
+i
+≠
+S
+i
++
+1
+S 
+i
+​
+ =S 
+i+1
+​
+ , and either delete 
+S
+i
+S 
+i
+​
+  or 
+S
+i
++
+1
+S 
+i+1
+​
+  from the string (concatenate the remaining parts of the string).
+Find the minimum final length of the string 
+S
+S after performing some (possibly 
+0
+0) number of operations.

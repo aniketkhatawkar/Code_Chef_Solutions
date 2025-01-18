@@ -1,0 +1,8 @@
+Maximise Adjacent Sum
+You are given an array A of size N(N≥2).
+
+We define f(A)=∑ i=1N−1
+​(Ai+A i+1).
+
+Find the maximum value of f(A) you can obtain by rearranging the elements of 
+A in any arbitrary order.

@@ -1,0 +1,7 @@
+Entry Check
+Chef wants to visit a fair, but there is an age restriction for entry. A person can attend the fair if their age is greater than or equal to 10 years.
+
+You are given Chef's age, represented by the integer X. Your task is to determine whether Chef is eligible to attend the fair or not.
+
+If Chef's age is greater than or equal to 10, print "YES".
+Otherwise, print "NO".
