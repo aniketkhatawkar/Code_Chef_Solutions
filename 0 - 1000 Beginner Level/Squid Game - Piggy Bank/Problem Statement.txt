@@ -1,0 +1,18 @@
+Squid Game - Piggy Bank
+In the deadly "Squid Game," the participants start with 
+N
+N players. After the game ends, only 
+K
+K players survive. The prize pool increases based on the number of players eliminated.
+
+Each eliminated player contributes a fixed amount of 
+10
+,
+000
+10,000 units to the prize pool.
+
+Your task is to calculate the total prize money added to the pool, given the number of players 
+N
+N at the start of the game and the number of players who survive, 
+K
+K.

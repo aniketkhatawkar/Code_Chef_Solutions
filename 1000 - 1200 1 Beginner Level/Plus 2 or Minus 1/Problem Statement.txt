@@ -1,0 +1,38 @@
+Plus 2 or Minus 1
+Chef has a number 
+X
+X whose value is initially 
+0
+0. In one move, he can do one of the following:
+
+Increment 
+X
+X by 
+2
+2 i.e. 
+X
+:
+=
+X
++
+2
+X:=X+2
+Decrement 
+X
+X by 
+1
+1 i.e. 
+X
+:
+=
+X
+−
+1
+X:=X−1
+He can perform at most 
+Y
+Y moves. He wants to determine how many distinct values can 
+X
+X have after performing at most 
+Y
+Y moves.

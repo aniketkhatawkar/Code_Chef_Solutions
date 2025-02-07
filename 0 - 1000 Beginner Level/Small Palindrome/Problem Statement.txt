@@ -1,0 +1,29 @@
+Small Palindrome
+Chef has 
+X
+X ones (
+1
+1s) and 
+Y
+Y twos (
+2
+2s) in his collection. He wants to arrange all of them into the smallest possible palindrome number
+†
+†
+  using all of these ones (
+1
+1s) and twos (
+2
+2s).
+
+Help Chef with the answer.
+
+Note: 
+X
+X and 
+Y
+Y are both even numbers.
+
+†
+†
+ A palindromic number is a number that remains the same when its digits are reversed.

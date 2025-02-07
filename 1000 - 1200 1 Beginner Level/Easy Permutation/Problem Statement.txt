@@ -1,0 +1,55 @@
+Easy Permutation
+You are given an integer 
+N
+N.
+
+Construct any permutation 
+A
+A of 
+N
+N integers such that the value 
+L
+C
+M
+(
+1
++
+A
+1
+,
+2
++
+A
+2
+,
+…
+,
+N
++
+A
+N
+)
+LCM(1+A 
+1
+​
+ ,2+A 
+2
+​
+ ,…,N+A 
+N
+​
+ ) is minimised.
+
+Note:
+
+L
+C
+M
+LCM denotes the least common multiple of the integers.
+A permutation of 
+N
+N integers contains all integers from 
+1
+1 to 
+N
+N exactly once.

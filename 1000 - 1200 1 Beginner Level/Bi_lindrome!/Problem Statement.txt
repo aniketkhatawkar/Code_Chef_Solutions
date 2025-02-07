@@ -1,0 +1,16 @@
+Bi_lindrome!
+You are given a string 
+S
+S of length 
+N
+N.
+
+Your task is to delete a subsequence of maximum length from the string, such that, after concatenating the remaining parts of the string, it becomes a palindrome of length greater than 
+1
+1.
+
+If this is possible, print the maximum length of the subsequence that can be deleted. Otherwise, print 
+−
+1
+−1.
+

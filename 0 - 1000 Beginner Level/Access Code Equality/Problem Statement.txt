@@ -1,0 +1,14 @@
+Access Code Equality
+You are attempting to join the Web Club NITK’s exclusive online session. To do so, you need to enter the correct access code.
+
+The correct code is "WECNITK" (without quotes).
+The code you entered is given by the string 
+S
+S, which has length 
+7
+7.
+
+Your task is to verify whether the entered code 
+S
+S matches the correct code.
+If it does, print "Welcome to Web Club!". Otherwise, print "Access denied".

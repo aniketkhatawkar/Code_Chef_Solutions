@@ -1,0 +1,10 @@
+Time Machine
+Chef is currently in the year 
+X
+X in Chefland. He has a time machine that allows him to travel at most 
+25
+25 years into the future, but he can use it only once.
+
+Determine whether Chef can reach the year 
+2050
+2050 with a single use of the time machine.

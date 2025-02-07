@@ -1,0 +1,26 @@
+Ballon d Or
+Leo has already won the Ballon d'Or 
+8
+8 times, so he is really impressed with it (is he?).
+
+Leo has an array 
+A
+A containing 
+N
+N integers. Each element of this array is either 
+1
+1 or 
+2
+2.
+He wants to figure out if the product of all the elements of the array can be written as an 
+8
+8-th power of some integer, i.e, 
+k
+8
+k 
+8
+  for some integer 
+k
+k.
+
+Print Yes if it can and No if it can't.

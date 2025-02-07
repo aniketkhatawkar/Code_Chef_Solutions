@@ -1,0 +1,69 @@
+Remove Element
+You are given an array 
+A
+=
+[
+A
+1
+,
+A
+2
+,
+…
+,
+A
+N
+]
+A=[A 
+1
+​
+ ,A 
+2
+​
+ ,…,A 
+N
+​
+ ] consisting of 
+N
+N positive integers.
+
+You are also given a constant 
+K
+K, using which you can perform the following operation on 
+A
+A:
+
+Choose two distinct indices 
+i
+i and 
+j
+j such that 
+A
+i
++
+A
+j
+≤
+K
+A 
+i
+​
+ +A 
+j
+​
+ ≤K, and remove either 
+A
+i
+A 
+i
+​
+  or 
+A
+j
+A 
+j
+​
+  from 
+A
+A.
+Is it possible to obtain an array consisting of only one element using several (possibly, zero) such operations?

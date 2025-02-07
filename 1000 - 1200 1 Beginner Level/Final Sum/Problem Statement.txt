@@ -1,0 +1,98 @@
+Final Sum
+Chef has an array 
+A
+A of length 
+N
+N. In one operation, Chef can:
+
+Choose any subarray 
+[
+L
+,
+R
+]
+[L,R] 
+(
+1
+≤
+L
+≤
+R
+≤
+N
+)
+(1≤L≤R≤N);
+Add 
+1
+1 to 
+A
+L
+A 
+L
+​
+ , subtract 
+1
+1 from 
+A
+L
++
+1
+A 
+L+1
+​
+ , add 
+1
+1 to 
+A
+L
++
+2
+A 
+L+2
+​
+ , subtract 
+1
+1 from 
+A
+L
++
+3
+A 
+L+3
+​
+  and so on, till 
+A
+R
+A 
+R
+​
+ .
+Chef performed 
+Q
+Q such operations where the 
+i
+t
+h
+i 
+th
+  operation was performed on the subarray 
+[
+L
+i
+,
+R
+i
+]
+[L 
+i
+​
+ ,R 
+i
+​
+ ].
+
+Determine the final sum of the array after these 
+Q
+Q operations.
+
+Note that a subarray is formed by deleting some (possibly zero) elements from the beginning and some (possibly zero) elements from the end of the array.

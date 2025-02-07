@@ -1,0 +1,5 @@
+Bear and Segment 01
+
+Bear Limak has a string S. Each character of S is a digit '0' or '1'.
+
+Help Limak and check if all the '1' digits form a single non-empty segment (consecutive subsequence) in the string. For each test case, print "YES" or "NO" accordingly.
