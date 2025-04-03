@@ -1,0 +1,16 @@
+Too Much Homework!
+Chef just realized he has a ton of homework due tomorrow!
+
+Chef has several worksheets of questions with him. Each worksheet has exactly 
+Y
+Y questions in it.
+Chef only has the time to complete at most 
+10
+10 worksheets before the submission deadline.
+
+Chef has previously answered 
+X
+X questions, and he needs to answer at least 
+100
+100 questions in total to get a full score for the homework.
+Will Chef be able to get a full score?

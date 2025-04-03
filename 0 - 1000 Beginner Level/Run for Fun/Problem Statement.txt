@@ -1,0 +1,8 @@
+Run for Fun
+Chef is participating in a race of 
+Y
+Y kilometers. However, Chef gets tired and needs to take a rest after every 
+X
+X kilometers.
+
+Can you determine how many times Chef will stop to rest before reaching the finish line?

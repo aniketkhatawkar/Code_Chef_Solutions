@@ -1,0 +1,24 @@
+Make Multiple
+Chef has two integers 
+A
+A and 
+B
+B 
+(
+A
+≤
+B
+)
+(A≤B).
+
+Chef can choose any non-negative integer 
+X
+X and add them to both 
+A
+A and 
+B
+B. Find whether it is possible to make 
+A
+A a divisor of 
+B
+B.

@@ -1,0 +1,19 @@
+Chef and Groups
+Read problem statements in Bengali, Mandarin Chinese, Russian, and Vietnamese as well.
+There are 
+N
+N seats in a row. You are given a string 
+S
+S with length 
+N
+N; for each valid 
+i
+i, the 
+i
+i-th character of 
+S
+S is '0' if the 
+i
+i-th seat is empty or '1' if there is someone sitting in that seat.
+
+Two people are friends if they are sitting next to each other. Two friends are always part of the same group of friends. Can you find the total number of groups?

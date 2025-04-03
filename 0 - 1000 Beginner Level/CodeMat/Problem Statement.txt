@@ -1,0 +1,22 @@
+CodeMat
+Code-mat is an annual programming competition organized by the Mathematics and Computing Society (MACS) at IIT BHU. Last year, the event had 
+X
+X participants, while this year it attracted 
+Y
+Y participants. Determine whether this year's event was more successful by checking if 
+Y
+Y is greater than 
+X
+X. If it was more successful, print Yes. Otherwise, print No.
+
+Input Format
+The input consists of two space-separated integers 
+X
+X and 
+Y
+Y, where:
+
+X
+X denotes the number of participants last year.
+Y
+Y denotes the number of participants this year.

@@ -1,0 +1,35 @@
+Winning World Finals
+Chef's team is participating in the ICPC World Finals.
+The contest is 
+300
+300 minutes long, of which 
+M
+M minutes have passed already.
+Chef's team has only one problem left to solve. Their time penalty so far is 
+P
+P.
+
+At any minute strictly before the 
+300
+300-th, the team can make a submission.
+When making a submission at minute 
+X
+X, one of two things can happen:
+
+The submission is correct.
+In this case, 
+X
+X (the time of the submission) gets added to the team's time penalty. No more submissions can be made after this.
+The submission is wrong.
+In this case, 
+20
+20 gets added to the team's time penalty. The team must then wait at least one minute before making the next submission.
+Chef believes that as long as his team solves the problem and has a final penalty of 
+≤
+1000
+≤1000, they will place first.
+
+Find the maximum number of wrong submissions that Chef's team can make, while still ensuring that they win the contest.
+The first submission can be made immediately at minute 
+M
+M.

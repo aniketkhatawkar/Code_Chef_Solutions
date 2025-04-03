@@ -1,0 +1,88 @@
+Game of Pooks
+We have found a new chess character — pook. It has the qualities of both a rook and a pawn. Specifically, treating the chessboard to be an 
+N
+×
+N
+N×N grid where 
+(
+i
+,
+j
+)
+(i,j) denotes the intersection of the 
+i
+i-th row and the 
+j
+j-th column, a pook placed at square 
+(
+x
+,
+y
+)
+(x,y) threatens the following squares:
+
+(
+i
+,
+y
+)
+(i,y) for every 
+1
+≤
+i
+≤
+N
+1≤i≤N
+(
+x
+,
+i
+)
+(x,i) for every 
+1
+≤
+i
+≤
+N
+1≤i≤N
+(
+x
++
+1
+,
+y
+−
+1
+)
+(x+1,y−1), if 
+x
+<
+N
+x<N and 
+y
+≥
+2
+y≥2
+(
+x
++
+1
+,
+y
++
+1
+)
+(x+1,y+1), if 
+x
+<
+N
+x<N and 
+y
+<
+N
+y<N
+Find the maximum number of pooks that can be placed on an empty 
+N
+×
+N
+N×N chessboard such that none of them threaten each other.

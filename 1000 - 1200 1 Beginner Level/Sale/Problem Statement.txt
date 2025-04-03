@@ -1,0 +1,20 @@
+Sale
+Chef knows the projected sales of his store for the next 
+N
+N days. The projected sales of the 
+i
+t
+h
+i 
+th
+  day is 
+A
+i
+A 
+i
+​
+ .
+
+On any particular day, Chef can announce that his shop is closing which will double his sales for that day, but since Chef is a man of his word, he won't make any sale after that day.
+
+Find the maximum possible total sales which Chef can make.

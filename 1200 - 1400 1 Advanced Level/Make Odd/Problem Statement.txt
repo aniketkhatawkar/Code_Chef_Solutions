@@ -1,0 +1,56 @@
+Make Odd
+You are given two binary strings 
+A
+A and 
+B
+B, each of length 
+N
+N. Your task is to make your 
+s
+c
+o
+r
+e
+score odd which is initially 
+0
+0 by choosing 
+N
+N elements such that:
+
+For each index 
+i
+i (
+1
+≤
+i
+≤
+N
+1≤i≤N), you will select either 
+A
+i
+A 
+i
+​
+  or 
+B
+i
+B 
+i
+​
+ .
+If the character you select is equal to "1", add 
+1
+1 to the 
+s
+c
+o
+r
+e
+score. If the character is "0", add nothing.
+Your goal is to determine whether it is possible to make the 
+s
+c
+o
+r
+e
+score an odd number. If it is possible, print YES, otherwise print NO.

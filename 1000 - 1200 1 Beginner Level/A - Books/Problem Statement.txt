@@ -1,0 +1,55 @@
+A - Books
+You are given a 
+s
+o
+r
+t
+e
+d
+sorted list 
+A
+A of size 
+N
+N.You have to make a new list 
+B
+B such that 
+B
+[
+i
+]
+B[i] is equal to the number of elements 
+s
+t
+r
+i
+c
+t
+l
+y
+strictly 
+g
+r
+e
+a
+t
+e
+r
+greater than 
+A
+[
+i
+]
+A[i] in the list 
+A
+A.
+
+Print the 
+n
+e
+w
+new 
+l
+i
+s
+t
+list.

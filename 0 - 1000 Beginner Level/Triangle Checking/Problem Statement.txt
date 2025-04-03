@@ -1,0 +1,41 @@
+Triangle Checking
+You are given 
+3
+3 sticks of length 
+A
+A, 
+B
+B and 
+C
+C.
+
+Please check if they can be the side lengths of a valid non-degenerate triangle.
+
+Recall that 
+A
+,
+B
+A,B and 
+C
+C can be the side-lengths of a non-degenerate triangle if and only if each of the following 
+3
+3 conditions hold:
+
+A
++
+B
+>
+C
+A+B>C
+B
++
+C
+>
+A
+B+C>A
+A
++
+C
+>
+B
+A+C>B

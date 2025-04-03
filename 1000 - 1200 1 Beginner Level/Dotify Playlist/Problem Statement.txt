@@ -1,0 +1,41 @@
+Dotify Playlist
+You use the Dotify app to store and play your favorite songs. You have a total of 
+N
+N different songs in the app, numbered from 
+1
+1 to 
+N
+N. The 
+i
+t
+h
+i 
+th
+  song is 
+M
+i
+M 
+i
+​
+  minutes long, and is in the language 
+L
+i
+L 
+i
+​
+ .
+
+You are going on a long drive, and your friend only knows the language 
+L
+L. So you want to create a playlist which satisfies these conditions:
+
+There should be exactly 
+K
+K songs in the playlist and they should all be distinct.
+Every song in the playlist should be from your list of 
+N
+N songs in the app.
+Every song in the playlist should be in the language 
+L
+L.
+The length of a playlist is the sum of the lengths of all the songs in it. Find the maximum length of the playlist that you can create while satisfying the conditions above. If such a playlist cannot be created, output -1.

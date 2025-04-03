@@ -1,0 +1,97 @@
+Stick Break
+Chef has a stick of length 
+L
+L. Chef wants to break the stick into 
+K
+K parts such that each part has a non-zero length.
+
+Let the lengths of the 
+K
+K parts be 
+A
+1
+,
+A
+2
+,
+…
+,
+A
+K
+A 
+1
+​
+ ,A 
+2
+​
+ ,…,A 
+K
+​
+  (Note that 
+A
+1
++
+A
+2
++
+…
++
+A
+K
+=
+L
+A 
+1
+​
+ +A 
+2
+​
+ +…+A 
+K
+​
+ =L and 
+A
+i
+A 
+i
+​
+  is a positive integer for all 
+i
+i). Chef wants to minimize the value of 
+∑
+i
+=
+1
+K
+−
+1
+∣
+A
+i
++
+1
+−
+A
+i
+∣
+i=1
+∑
+K−1
+​
+ ∣A 
+i+1
+​
+ −A 
+i
+​
+ ∣. Can you help Chef? (Here 
+∣
+x
+∣
+∣x∣ denotes the absolute value of 
+x
+x)
+
+Under the given constraints it will always be possible to break the stick into 
+K
+K parts of non-zero lengths.

@@ -1,0 +1,49 @@
+2 Boxes
+You have 
+2
+2 boxes, the first having 
+X
+X stones, and the second having 
+Y
+Y stones.
+
+You want the (absolute) difference between the stones of the 
+2
+2 boxes to be exactly 
+K
+K.
+
+Each second, you can take a stone from the 
+1
+s
+t
+1 
+st
+  box and put it in the 
+2
+n
+d
+2 
+nd
+ , or take from the 
+2
+n
+d
+2 
+nd
+  and put it in the 
+1
+s
+t
+1 
+st
+  box.
+
+Find the minimum time till the difference between the stones of the 
+2
+2 boxes becomes exactly 
+K
+K. If it is impossible, print 
+−
+1
+−1 instead.

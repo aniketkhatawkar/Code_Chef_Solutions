@@ -1,0 +1,48 @@
+Placing 01 And 10
+You have 
+X
+X 
+01
+01 strings and 
+Y
+Y 
+10
+10 strings. You will form a new string 
+S
+S by first rearranging these strings in some order, and then concatenate them in this rearranged order.
+
+Let 
+f
+(
+S
+)
+f(S) denote the number of indices 
+i
+i such that 
+1
+≤
+i
+<
+∣
+S
+∣
+1≤i<∣S∣ and 
+S
+i
+≠
+S
+i
++
+1
+S 
+i
+​
+ =S 
+i+1
+​
+ . Find the minimum possible value of 
+f
+(
+S
+)
+f(S).

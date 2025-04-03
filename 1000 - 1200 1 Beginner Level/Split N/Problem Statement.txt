@@ -1,0 +1,29 @@
+Split N
+Kulyash is given an integer 
+N
+N. His task is to break 
+N
+N into some number of (integer) powers of 
+2
+2.
+
+TO achieve this, he can perform the following operation several times (possibly, zero):
+
+Choose an integer 
+X
+X which he already has, and break 
+X
+X into 
+2
+2 integer parts (
+Y
+Y and 
+Z
+Z) such that 
+X
+=
+Y
++
+Z
+X=Y+Z.
+Find the minimum number of operations required by Kulyash to accomplish his task.

@@ -1,0 +1,61 @@
+Technex Tickets
+You are standing in a queue that is infinitely long, waiting to get tickets for various events during Technex.
+The ticket distribution follows these rules:
+
+Every second, tickets are given to the 
+1
+s
+t
+1 
+st
+  and 
+3
+r
+d
+3 
+rd
+  persons in the queue.
+After receiving their tickets, those people leave the queue.
+The person who was originally in the 
+2
+n
+d
+2 
+nd
+  position (before the 
+1
+s
+t
+1 
+st
+  and 
+3
+r
+d
+3 
+rd
+  people left) moves up to the 
+1
+s
+t
+1 
+st
+  position.
+This process repeats every second, with the 
+1
+s
+t
+1 
+st
+  and 
+3
+r
+d
+3 
+rd
+  persons receiving tickets and leaving.
+Initially, you are at position 
+N
+N in the queue.
+
+Determine after how many seconds you will get the tickets.

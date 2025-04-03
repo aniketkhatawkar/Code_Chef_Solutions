@@ -1,0 +1,92 @@
+Odd Even Binary String
+Chef had an array 
+A
+A of length 
+N
+N such that 
+1
+≤
+A
+i
+≤
+N
+1≤A 
+i
+​
+ ≤N for all 
+1
+≤
+i
+≤
+N
+1≤i≤N. Chef constructed another binary array 
+B
+B of length 
+N
+N in the following manner:
+
+B
+i
+=
+1
+B 
+i
+​
+ =1 if the frequency of element 
+i
+i in 
+A
+A is odd.
+B
+i
+=
+0
+B 
+i
+​
+ =0 if the frequency of element 
+i
+i in 
+A
+A is even.
+Such an array 
+B
+B is called the parity encoding array of 
+A
+A.
+
+For example, if 
+A
+=
+[
+1
+,
+1
+,
+2
+,
+3
+]
+A=[1,1,2,3], then 
+B
+=
+[
+0
+,
+1
+,
+1
+,
+0
+]
+B=[0,1,1,0].
+
+Unfortunately, Chef completely forgot the array 
+A
+A and vaguely remembers the parity encoding array 
+B
+B. He is now wondering whether there exists any valid array 
+A
+A for which the parity encoding array is 
+B
+B. Can you help Chef?

@@ -1,0 +1,90 @@
+Weird Modulo Problem
+You are given an array 
+A
+A of 
+N
+N positive and pairwise distinct integers. You can permute the elements in any way you want.
+
+The cost of an ordering 
+(
+A
+1
+,
+A
+2
+,
+…
+,
+A
+N
+)
+(A 
+1
+​
+ ,A 
+2
+​
+ ,…,A 
+N
+​
+ ) is defined as 
+(
+(
+(
+A
+1
+ 
+m
+o
+d
+ 
+A
+2
+)
+ 
+m
+o
+d
+ 
+A
+3
+)
+.
+.
+.
+.
+.
+.
+)
+ 
+m
+o
+d
+ 
+A
+N
+(((A 
+1
+​
+ modA 
+2
+​
+ )modA 
+3
+​
+ )......)modA 
+N
+​
+  where 
+X
+ 
+m
+o
+d
+ 
+Y
+XmodY means the remainder when 
+X
+X is divided by 
+Y
+Y. You need to find the maximum cost which can be attained through any possible ordering of the elements.

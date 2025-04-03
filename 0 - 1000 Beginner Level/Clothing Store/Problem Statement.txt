@@ -1,0 +1,58 @@
+Clothing Store
+Chef owns a clothing store and has a limited number of t-shirts in different sizes. There are three sizes available:
+
+Small (
+S
+S): Chef has 
+X
+X small t-shirts.
+Large (
+L
+L): Chef has 
+Y
+Y large t-shirts.
+Extra Large (
+X
+L
+XL): Chef has 
+Z
+Z extra-large t-shirts.
+There are 
+A
+A people who wear small, 
+B
+B people who wear large, and 
+C
+C people who wear extra-large t-shirts.
+
+Each person is happy if they receive a t-shirt in their desired size. However, Chef has a magical tailoring machine that allows him to convert larger shirts into smaller ones:
+
+An 
+X
+L
+XL t-shirt can be converted into an 
+L
+L or an 
+S
+S t-shirt.
+An 
+L
+L t-shirt can be converted into an 
+S
+S t-shirt.
+Conversions are one-way and irreversible.
+
+Each conversion maintains a 
+1
+:
+1
+1:1 ratio (i.e., one 
+X
+L
+XL can become exactly one 
+L
+L or one 
+S
+S). Chef wants to distribute the t-shirts optimally, making conversions if necessary, to maximize the number of happy people.
+
+Can you determine the maximum number of people who will be happy?

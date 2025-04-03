@@ -1,0 +1,71 @@
+Alternating Binary String
+You are given a binary string 
+S
+S of length 
+N
+N.
+You can perform the following operation on it:
+
+Choose an index 
+i
+i (
+1
+≤
+i
+≤
+N
+1≤i≤N), and flip every character of 
+S
+S from index 
+i
+i to 
+N
+N.
+Flipping a character means turning it from 
+0
+0 to 
+1
+1 and vice versa.
+For example, if 
+S
+=
+1001101
+S=1001101 and you choose 
+i
+=
+4
+i=4, the resulting string will be 
+S
+=
+1000010
+S=1000010.
+
+Find the minimum number of operations required to turn 
+S
+S into an alternating string.
+S
+S is said to be an alternating string if 
+S
+i
+≠
+S
+i
+−
+1
+S 
+i
+​
+ =S 
+i−1
+​
+  for every 
+i
+i from 
+2
+2 to 
+N
+N.
+
+It can be proved that it's always possible to turn 
+S
+S into an alternating string.

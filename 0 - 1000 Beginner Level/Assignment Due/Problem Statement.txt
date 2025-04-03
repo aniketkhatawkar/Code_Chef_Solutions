@@ -1,0 +1,8 @@
+Assignment Due
+You are eagerly awaiting for the upcoming Technex event organized by IIT BHU Varanasi! However, you also have an assignment due. The deadline for the assignment is in 
+Y
+Y days, and it takes you 
+X
+X days to complete it.
+
+Determine whether you can finish the assignment on or before the deadline.

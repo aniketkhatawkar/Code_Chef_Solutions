@@ -1,0 +1,42 @@
+Lucky Boundaries
+You are batting at the pitch and all eyes are on you, the best player in all of IPL! The opposing team will relentlessly bowl at you an infinite number of balls!
+
+You notice that you only ever score a boundary on the 
+M
+t
+h
+M 
+th
+  ball, if 
+N
+N 
+m
+o
+d
+mod 
+M
+≤
+N
+/
+2
+M≤N/2, where 
+N
+N is the lucky number of your T-shirt. Now you wanna know how many boundaries will you hit in total?
+
+Formally, you are given a positive integer 
+N
+N and you need to find the number of positive integers 
+M
+M such that 
+N
+N 
+m
+o
+d
+mod 
+M
+≤
+N
+/
+2
+M≤N/2.
