@@ -1,0 +1,93 @@
+Streak Star
+The Streak Value of an array 
+B
+B is defined as the maximum length of a non-decreasing subarray, more formally:
+
+max
+⁡
+1
+≤
+i
+≤
+j
+≤
+N
+(
+j
+−
+i
++
+1
+)
+where
+B
+i
+≤
+B
+i
++
+1
+≤
+B
+i
++
+2
+≤
+⋯
+≤
+B
+j
+.
+1≤i≤j≤N
+max
+​
+ (j−i+1)whereB 
+i
+​
+ ≤B 
+i+1
+​
+ ≤B 
+i+2
+​
+ ≤⋯≤B 
+j
+​
+ .
+Chef has an array 
+A
+A of length 
+N
+N and a magical number 
+X
+X. You are allowed to perform the following operation at most once:
+
+Select an index 
+i
+i, and update the element at 
+A
+i
+A 
+i
+​
+  by multiplying it with 
+X
+X, i.e., set 
+A
+i
+:
+=
+A
+i
+⋅
+X
+A 
+i
+​
+ :=A 
+i
+​
+ ⋅X
+Your task is to find the maximum possible Streak Value achievable for array 
+A
+A.
