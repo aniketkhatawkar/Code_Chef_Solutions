@@ -1,0 +1,26 @@
+Game of Piles Version 1
+There are 
+N
+N piles where the 
+i
+t
+h
+i 
+th
+  pile consists of 
+A
+i
+A 
+i
+​
+  stones.
+
+Chef and Chefina are playing a game taking alternate turns with Chef starting first.
+In his/her turn, a player can choose any non-empty pile and remove exactly 
+1
+1 stone from it.
+
+The game ends when exactly 
+1
+1 pile becomes empty. The player who made the last move wins.
+Determine the winner if both players play optimally.
