@@ -1,0 +1,38 @@
+Move Grid
+You are located at the coordinate 
+(
+0
+,
+0
+)
+(0,0) on a 
+2
+2D grid with perpendicular 
+X
+X and 
+Y
+Y axes.
+
+You will do the following moves:
+
+first, 
+A
+A units along positive 
+X
+X axis
+then, 
+B
+B units along positive 
+Y
+Y axis
+then, 
+C
+C units along negative 
+X
+X axis
+finally, 
+D
+D units along negative 
+Y
+Y axis
+Find the coordinates of your final position.
