@@ -1,0 +1,48 @@
+Balanced Lighting
+Chef is getting his house ready for a party!
+
+In an effort to improve illumination in the room, Chef has placed 
+N
+N lights on his wall.
+Each light must be given a color: either red or blue.
+
+Some of the lights have colors that are already decided, while others aren't decided yet.
+Specifically, you are given an array 
+C
+C of length 
+N
+N, where:
+
+C
+i
+=
+1
+C 
+i
+​
+ =1 means the color of the 
+i
+i-th light is red.
+C
+i
+=
+2
+C 
+i
+​
+ =2 means the color of the 
+i
+i-th light is blue.
+C
+i
+=
+0
+C 
+i
+​
+ =0 means the color of the 
+i
+i-th light is not yet decided.
+Chef can set this light to be either red or blue; but one of the two must be chosen: it is not allowed to leave this light uncolored.
+Chef wants the lighting to be balanced, meaning there should be an equal number of red and blue lights.
+Is it possible to choose the colors of the as-yet-undecided lights in such a way that the resulting configuration is balanced?

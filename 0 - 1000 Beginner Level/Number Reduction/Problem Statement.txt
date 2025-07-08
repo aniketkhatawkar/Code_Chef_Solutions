@@ -1,0 +1,25 @@
+Number Reduction
+Chef has an integer 
+X
+X with him.
+He can perform the following two types of modifications to it, however many times he likes and in any order:
+
+If 
+X
+>
+3
+X>3, subtract 
+3
+3 from 
+X
+X.
+If 
+X
+X is even, divide 
+X
+X by 
+2
+2.
+Find the minimum possible value 
+X
+X can take after performing the given operations several times.

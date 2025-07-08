@@ -1,0 +1,51 @@
+
+Spell Shortening
+Chef is attempting to learn magic, but it really hasn't been going very well.
+In order to pass an upcoming exam, Chef decides to just memorize magic spells - but even that turns out to be too hard!
+
+A magic spell is, quite simply, a string that consists of only lowercase Latin letters (i.e, the characters 
+{
+a,b,c
+…
+,
+z
+}
+{a,b,c…,z}).
+
+Chef has with him a magic spell 
+S
+S, and is struggling to remember it.
+To make things easier, he decides to delete exactly one character from it - after all, a small modification to the spell won't change its effect, right?
+
+Chef believes he has a better chance of remembering the spell if it's lexicographically smallest.
+Can you help Chef find which character he should delete so that the resulting string is lexicographically smallest among all possible results?
+
+Note: Lexicographic order is essentially dictionary order.
+That is, string 
+A
+A is lexicographically smaller than string 
+B
+B if, at the first index 
+i
+i where they differ, 
+A
+i
+<
+B
+i
+A 
+i
+​
+ <B 
+i
+​
+ .
+For instance, 
+ac
+ac is smaller than 
+ad
+ad and 
+ba
+ba, but not 
+ab
+ab.

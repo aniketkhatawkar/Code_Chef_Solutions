@@ -1,0 +1,42 @@
+Convert to permutation
+You are given an array 
+A
+A of size 
+N
+N. In one operation, you can:
+
+Choose an index 
+i
+i 
+(
+1
+≤
+i
+≤
+N
+)
+(1≤i≤N) and increase 
+A
+i
+A 
+i
+​
+  by 
+1
+1.
+Find the minimum number of operations required to convert the array 
+A
+A into a permutation of size 
+N
+N. If it is impossible to do so, print 
+−
+1
+−1.
+
+Note that a permutation of size 
+N
+N contains each element from 
+1
+1 to 
+N
+N exactly once.

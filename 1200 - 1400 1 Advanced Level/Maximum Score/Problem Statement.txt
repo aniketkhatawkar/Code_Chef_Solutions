@@ -1,0 +1,68 @@
+Maximum Score
+You are given a binary array 
+A
+A of even length 
+N
+N.
+
+Initially your score is 
+0
+0. You need to perform the following operation exactly 
+N
+2
+2
+N
+​
+  times:
+
+Select an index 
+1
+≤
+i
+<
+∣
+A
+∣
+1≤i<∣A∣;
+Add 
+∣
+A
+i
+−
+A
+i
++
+1
+∣
+∣A 
+i
+​
+ −A 
+i+1
+​
+ ∣ to score;
+Delete 
+A
+i
+A 
+i
+​
+  and 
+A
+i
++
+1
+A 
+i+1
+​
+  from 
+A
+A and concatenate the remaining elements of 
+A
+A without changing the order.
+Note that after each operation, length of 
+A
+A decreases by 
+2
+2.
+Find the maximum score that you can get if you perform the operations optimally.

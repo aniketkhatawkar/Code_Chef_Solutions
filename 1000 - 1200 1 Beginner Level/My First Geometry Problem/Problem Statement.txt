@@ -1,0 +1,165 @@
+My First Geometry Problem
+You are on a 
+2
+2-dimensional grid, where you start at 
+(
+0
+,
+0
+)
+(0,0).
+You are given a binary string 
+S
+S of length 
+4
+4 where:
+
+S
+1
+S 
+1
+​
+  refers to left direction;
+S
+2
+S 
+2
+​
+  refers to right direction;
+S
+3
+S 
+3
+​
+  refers to up direction;
+S
+4
+S 
+4
+​
+  refers to down direction.
+S
+i
+=
+1
+S 
+i
+​
+ =1 denotes that you are allowed to make a move in the respective direction and vice-versa.
+
+Find the number of cells 
+(
+x
+,
+y
+)
+(x,y) you can possibly visit which satisfy 
+−
+10
+≤
+x
+,
+y
+≤
+10
+−10≤x,y≤10.
+
+Note that:
+
+You always include the cell 
+(
+0
+,
+0
+)
+(0,0) in your answer.
+If you can visit 
+(
+A
+1
+,
+B
+1
+)
+(A 
+1
+​
+ ,B 
+1
+​
+ ) and 
+(
+A
+2
+,
+B
+2
+)
+(A 
+2
+​
+ ,B 
+2
+​
+ ) individually, but not both at the same time, you will still include both of them in your answer.
+Moves are defined as:
+A move in left direction is a move from cell 
+(
+A
+,
+B
+)
+(A,B) to 
+(
+A
+−
+1
+,
+B
+)
+(A−1,B).
+A move in right direction is a move from cell 
+(
+A
+,
+B
+)
+(A,B) to 
+(
+A
++
+1
+,
+B
+)
+(A+1,B).
+A move in up direction is a move from cell 
+(
+A
+,
+B
+)
+(A,B) to 
+(
+A
+,
+B
++
+1
+)
+(A,B+1).
+A move in down direction is a move from cell 
+(
+A
+,
+B
+)
+(A,B) to 
+(
+A
+,
+B
+−
+1
+)
+(A,B−1).

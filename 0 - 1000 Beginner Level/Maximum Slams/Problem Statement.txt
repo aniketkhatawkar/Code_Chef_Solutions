@@ -1,0 +1,13 @@
+Maximum Slams
+Chef is a professional tennis player, and his aim is to win more Grand Slams than anyone ever has!
+
+Currently, Chef has won 
+X
+X Grand Slams in total.
+Chef needs to win at least 
+25
+25 Grand Slams in total to break the record for most total wins.
+
+Every year, there are exactly 
+4
+4 Grand Slams. Assuming Chef is skilled enough to always win a Grand Slam, what's the minimum number of years Chef needs to break the record?

@@ -1,0 +1,45 @@
+Rock Paper Scissor
+Chef and Chefina are playing the famous game of Rock, Paper, Scissors.
+The game consists of 
+N
+N rounds. In each round, both players choose one of the three moves: Rock, Paper, or Scissors, denoted by R, P, and S respectively.
+
+If both players play the same move, the current round ends in a draw and neither of them gets a point.
+If one of the players plays Rock and the other plays Scissors, the player who played Rock wins the round and gets a point.
+If one of the players plays Scissors and the other plays Paper, the player who played Scissors wins the round and gets a point.
+If one of the players plays Paper and the other plays Rock, the player who played Paper wins the round and gets a point.
+The winner of the game is the player who gets the maximum number of points after playing all the rounds. If both players have the same number of points, then the game ends in a draw.
+
+You are given two strings 
+A
+A and 
+B
+B, each of length 
+N
+N, consisting of uppercase English letters R, P, and S, where 
+A
+i
+A 
+i
+​
+  denotes the move made by Chef in the 
+i
+t
+h
+i 
+th
+  round and 
+B
+i
+B 
+i
+​
+  denotes the move made by Chefina in the 
+i
+t
+h
+i 
+th
+  round.
+
+Find the minimum number of rounds Chef should have played differently to have won the game.

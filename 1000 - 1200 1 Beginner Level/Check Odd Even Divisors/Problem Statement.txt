@@ -1,0 +1,48 @@
+Check Odd Even Divisors
+You are given integers 
+A
+A and 
+B
+B. You want to check if there exists some positive integer 
+N
+N such that it has exactly 
+A
+A odd divisors and exactly 
+B
+B even divisors.
+
+For example, 
+2
+2 has 
+1
+1 odd divisor (which is 
+1
+1), and 
+1
+1 even divisor (which is 
+2
+2). 
+8
+8 has 
+1
+1 odd divisor (which is 
+1
+1) and 
+3
+3 even divisors (which are 
+2
+,
+4
+,
+8
+2,4,8).
+
+Is it possible? You only need to print 
+Yes
+Yes or 
+No
+No based on whether there exists some integer 
+N
+N, you do not need to print the value of 
+N
+N.

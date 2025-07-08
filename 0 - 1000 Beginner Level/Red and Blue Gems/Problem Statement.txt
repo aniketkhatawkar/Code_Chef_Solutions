@@ -1,0 +1,14 @@
+Red and Blue Gems
+There are 
+R
+R red gems and 
+B
+B blue gems. Each red gem can be sold for 
+P
+P coins, while a blue gem can be sold for 
+Q
+Q coins.
+
+It is not allowed to take gems of both colours. You may either take all of the red gems, or take all of the blue gems.
+
+Find the maximum number of coins you can obtain by taking some of the gems and then selling them.

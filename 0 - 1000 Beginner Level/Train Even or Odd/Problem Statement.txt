@@ -1,0 +1,34 @@
+Train Even or Odd
+Chef will be going to the gym for some of the next 
+N
+N days. On the 
+i
+i-th day, he is free to go to the gym for 
+A
+i
+A 
+i
+​
+  hours.
+
+Chef does not want to go the gym every day, because he is lazy. But he also does not want to miss too many days without going to the gym once.
+
+Thus, he decides that he will go every alternate day. He may go on days 
+1
+,
+3
+,
+5
+,
+…
+1,3,5,… or days 
+2
+,
+4
+,
+6
+,
+…
+2,4,6,….
+
+Find the maximum total hours he can invest in the gym.

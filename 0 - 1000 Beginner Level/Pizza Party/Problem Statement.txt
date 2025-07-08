@@ -1,0 +1,16 @@
+Pizza Party
+Chef is hosting a pizza party and has invited 
+A
+A boys and 
+B
+B girls. Don't forget to include Chef himself; he is a boy.
+
+It is known that a boy eats 
+4
+4 slices of pizza while a girl eats 
+3
+3 slices of pizza. Further, a single pizza comes with 
+8
+8 total slices of pizza.
+
+How many pizzas does Chef need to ensure nobody remains hungry? It is fine to waste some of the food.

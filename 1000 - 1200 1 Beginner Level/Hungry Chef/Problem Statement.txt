@@ -1,0 +1,27 @@
+Hungry Chef
+Chef is very hungry. So, Chef goes to a shop selling burgers. The shop has 
+2
+2 types of burgers:
+
+Normal burgers, which cost 
+X
+X rupees each
+Premium burgers, which cost 
+Y
+Y rupees each (where 
+Y
+>
+X
+Y>X)
+Chef has 
+R
+R rupees. Chef wants to buy exactly 
+N
+N burgers. He also wants to maximize the number of premium burgers he buys. Determine the number of burgers of both types Chef must buy.
+
+Output 
+−
+1
+−1 if it is not possible for Chef to buy 
+N
+N burgers.

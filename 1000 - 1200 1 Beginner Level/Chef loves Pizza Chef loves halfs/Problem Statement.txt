@@ -1,0 +1,11 @@
+Chef loves Pizza Chef loves halfs
+Chef has a unique way of cutting round pizzas. He starts by cutting the pizza in half, then into quarters, then eighths, and so on, always cutting through the center.
+
+Below is an example of cuts made by Chef in sequential order:
+
+Chef wants to cut pizza into 
+X
+X slices where 
+X
+X is always even.
+Your task is to determine the number of pieces that will be smaller than the rest.

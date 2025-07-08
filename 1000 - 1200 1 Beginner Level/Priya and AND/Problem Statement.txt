@@ -1,0 +1,47 @@
+Priya and AND
+Priya loves bitwise AND, but she hates programming. Help her solve this problem.
+
+Given an array 
+A
+A of size 
+N
+N, let 
+B
+i
+j
+B 
+ij
+​
+  denote the bitwise AND of 
+A
+[
+i
+]
+A[i] and 
+A
+[
+j
+]
+A[j]. You have to find the number of pairs 
+(
+i
+,
+j
+)
+(i,j), such that 
+i
+<
+j
+i<j and 
+B
+i
+j
+=
+A
+[
+i
+]
+B 
+ij
+​
+ =A[i].

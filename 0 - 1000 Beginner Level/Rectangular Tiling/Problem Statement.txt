@@ -1,0 +1,60 @@
+Rectangular Tiling
+You have a rectangular floor 
+R
+R with width 
+W
+W and length 
+L
+L. You want to tile this floor with some rectangular tiles - 
+R
+1
+,
+R
+2
+,
+…
+,
+R
+k
+R 
+1
+​
+ ,R 
+2
+​
+ ,…,R 
+k
+​
+ , where 
+k
+k is any integer 
+≥
+1
+≥1.
+
+But you want to tile it such that for 
+i
+i, 
+1
+≤
+i
+≤
+k
+1≤i≤k, the width and height of 
+R
+i
+R 
+i
+​
+  is a positive integer, and 
+R
+i
+R 
+i
+​
+  has a perimeter which isn't divisible by 
+4
+4.
+Note that different tiles can have different heights and widths.
+
+You need to find out whether this is possible to do so, or not.

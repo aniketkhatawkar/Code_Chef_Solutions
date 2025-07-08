@@ -1,0 +1,54 @@
+Xor Palindrome
+You are given a binary string 
+A
+A of length 
+N
+N.
+
+You can perform the following type of operation on the string 
+A
+A:
+
+Choose two different indices 
+i
+i and 
+j
+j 
+(
+1
+≤
+i
+,
+j
+≤
+N
+)
+(1≤i,j≤N);
+Change 
+A
+i
+A 
+i
+​
+  and 
+A
+j
+A 
+j
+​
+  to 
+A
+i
+⊕
+A
+j
+A 
+i
+​
+ ⊕A 
+j
+​
+ . Here 
+⊕
+⊕ represents the bitwise XOR operation.
+Find the minimum number of operations required to convert the given string into a palindrome.

@@ -1,0 +1,85 @@
+Palindrome Flipping
+Chef has a binary string 
+S
+S of length 
+N
+N.
+
+In one operation, Chef can:
+
+Select two indices 
+i
+i and 
+j
+j 
+(
+1
+≤
+i
+,
+j
+≤
+N
+,
+i
+≠
+j
+)
+(1≤i,j≤N,i=j) and flip 
+S
+i
+S 
+i
+​
+  and 
+S
+j
+S 
+j
+​
+ . (i.e. change 
+0
+0 to 
+1
+1 and 
+1
+1 to 
+0
+0)
+For example, if 
+S
+=
+10010
+S=10010 and chef applys operation on 
+i
+=
+1
+i=1 and 
+j
+=
+3
+j=3 then: 
+1
+‾
+0
+0
+‾
+10
+→
+00110
+1
+​
+ 0 
+0
+​
+ 10→00110.
+
+Find if it is possible to convert 
+S
+S to a palindrome by applying the above operation any (possibly zero) number of times.
+
+Note: A string is called a palindrome if it reads the same backwards and forwards, for e.g. 
+10001
+10001 and 
+0110
+0110 are palindromic strings.

@@ -1,0 +1,24 @@
+Approval Ratings
+You are a singer. There are 
+5
+5 judges in a reality show judging your performance.
+
+You know beforehand, from your insider sources, that the 
+i
+i-th judge will give you a rating of 
+A
+i
+A 
+i
+​
+  out of 
+10
+10. To be selected, you need an average rating of at least 
+7
+7.
+
+You can bribe a judge by paying them 
+100
+100 gold coins. The judge will then change his rating of your performance to 
+10
+10. What is the minimum number of gold coins you need to use to be selected?

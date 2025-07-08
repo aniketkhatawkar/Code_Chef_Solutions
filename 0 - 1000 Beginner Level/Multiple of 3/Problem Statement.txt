@@ -1,0 +1,49 @@
+Multiple of 3
+Given a positive integer 
+N
+N, find the nearest multiple of 
+3
+3.
+
+Multiples of 
+3
+3 are 
+…
+−
+6
+,
+−
+3
+,
+0
+,
+3
+,
+6
+,
+9
+,
+12
+,
+15
+,
+…
+…−6,−3,0,3,6,9,12,15,….
+
+Formally, find 
+X
+X, the multiple of 
+3
+3 with minimum value of 
+∣
+N
+−
+X
+∣
+∣N−X∣.
+
+It can be proven that the answer is always unique, i.e. 
+2
+2 different multiples of 
+3
+3 cannot be nearest at the same time.

@@ -1,0 +1,34 @@
+The product mystery
+Given two positive numbers 
+B
+B and 
+C
+C, what is the minimum positive value of 
+A
+A, such that 
+A
+⋅
+B
+A⋅B is divisible by 
+C
+C.
+
+Here, 
+A
+⋅
+B
+A⋅B denotes the value obtained when 
+A
+A is multiplied by 
+B
+B.
+
+Input Format
+The first line will contain an integer 
+T
+T - number of test cases. Then the test cases follow.
+The first and only line of each test case contains two integers 
+B
+B and 
+C
+C.

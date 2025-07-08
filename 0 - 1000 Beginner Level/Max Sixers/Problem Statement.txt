@@ -1,0 +1,29 @@
+Max Sixers
+Your favourite cricket player played very well today. He made 
+X
+(
+100
+≤
+X
+≤
+200
+)
+X(100≤X≤200) runs from exactly 
+100
+100 balls. Each ball he scored either 
+0
+0, 
+1
+1, 
+2
+2, 
+3
+3, 
+4
+4 or 
+6
+6 runs.
+
+Unfortunately you missed the match. So now, you are wondering what is the maximum number of sixers he could have hit? A sixer is a ball where you score 
+6
+6 runs.

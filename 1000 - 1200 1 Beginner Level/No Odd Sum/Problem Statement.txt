@@ -1,0 +1,64 @@
+No Odd Sum
+There are 
+N
+N numbers written on a blackboard. The 
+i
+i-th number is denoted as 
+A
+i
+A 
+i
+​
+ .
+The blackboard is said to be good if, for each pair of indices 
+(
+i
+,
+j
+)
+(i,j) with 
+1
+≤
+i
+<
+j
+≤
+N
+1≤i<j≤N, the sum 
+(
+A
+i
++
+A
+j
+)
+(A 
+i
+​
+ +A 
+j
+​
+ ) is an even number.
+
+The blackboard might not be good initially, so you want to make it good.
+To do this, you can perform the following two types of operations:
+
+Erase a 
+2
+2 from the blackboard, and in its place write two occurrences of 
+1
+1.
+Of course, this can only be done when there's at least one occurrence of 
+2
+2 on the blackboard.
+Erase two occurrences of 
+1
+1 from the blackboard, and in their place write a single occurrence of 
+2
+2.
+Of course, this can only be done when there are at least two occurrences of 
+1
+1 on the blackboard.
+The above operations can be performed in any order, and each operation can be used however many times you like.
+Find the minimum number of operations needed to make the blackboard good.
+It can be proved that it's always possible to make the blackboard good.

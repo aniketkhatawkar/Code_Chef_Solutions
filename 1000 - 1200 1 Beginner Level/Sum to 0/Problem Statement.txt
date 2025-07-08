@@ -1,0 +1,61 @@
+Sum to 0
+You are given an integer 
+N
+N.
+
+Construct an array 
+A
+A of size 
+N
+N, with all non-zero elements, such that the sum of elements is 
+0
+0 and that the absolute values of all elements do not exceed 
+3
+3.
+
+Formally, find an array 
+A
+A of 
+N
+N elements such that:
+
+A
+1
++
+A
+2
++
+…
++
+A
+N
+=
+0
+A 
+1
+​
+ +A 
+2
+​
+ +…+A 
+N
+​
+ =0
+∣
+A
+i
+∣
+∣A 
+i
+​
+ ∣ is either 
+1
+1, 
+2
+2 or 
+3
+3.
+If multiple answers exist, all will be accepted. If no answer exists, print 
+−
+1
+−1.

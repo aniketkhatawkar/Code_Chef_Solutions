@@ -1,0 +1,10 @@
+Chef and Cook-Off Contests
+
+Chef wants to prepare a Cook-Off contest with 5 problems chosen from a set of N problems. He has marked the difficulty of each problem within a range identified by one of the following strings: "cakewalk", "simple", "easy", "easy-medium", "medium", "medium-hard", "hard". According to this page, a Cook-Off contest must have problems of the following difficulties:
+
+exactly one "cakewalk";
+exactly one "simple";
+exactly one "easy";
+one "easy-medium" or one "medium";
+one "medium-hard" or one "hard".
+Given the information about the N problems, can you advise Chef if it's possible to pick 5 problems and form a valid Cook-Off contest?

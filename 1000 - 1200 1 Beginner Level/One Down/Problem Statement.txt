@@ -1,0 +1,67 @@
+One Down
+You are given two binary strings 
+S
+S and 
+T
+T, each of length 
+N
+N. You wish to convert 
+S
+S into 
+T
+T using the following operation any number of times (possibly zero):
+
+Choose two distinct indices 
+i
+i and 
+j
+j (
+1
+≤
+i
+,
+j
+≤
+N
+1≤i,j≤N, 
+i
+≠
+j
+i=j) such that both 
+S
+i
+=
+1
+S 
+i
+​
+ =1 and 
+S
+j
+=
+1
+S 
+j
+​
+ =1, and change both to 
+S
+i
+=
+0
+S 
+i
+​
+ =0 and 
+S
+j
+=
+0
+S 
+j
+​
+ =0.
+Determine whether it is possible to transform 
+S
+S into 
+T
+T by applying the above operation.

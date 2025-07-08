@@ -1,0 +1,98 @@
+Odd GCD Permutation
+You are given an integer 
+N
+N. Print a permutation of 
+{
+1
+,
+2
+,
+…
+,
+N
+}
+{1,2,…,N} such that the greatest common divisor (GCD) of the numbers at odd indices is greater than the GCD of the numbers at even indices. If there are many such permutations, print the lexicographically largest permutation.
+
+More formally, find the lexicographically largest permutation 
+P
+P such that 
+GCD
+(
+P
+1
+,
+P
+3
+,
+P
+5
+,
+…
+)
+>
+GCD
+(
+P
+2
+,
+P
+4
+,
+P
+6
+,
+…
+)
+GCD(P 
+1
+​
+ ,P 
+3
+​
+ ,P 
+5
+​
+ ,…)>GCD(P 
+2
+​
+ ,P 
+4
+​
+ ,P 
+6
+​
+ ,…), where 
+P
+i
+P 
+i
+​
+  represents the number at index 
+i
+i in the permutation.
+
+If no solution exists, print -1.
+
+Note: Permutation 
+X
+X is lexicographically larger than permutation 
+Y
+Y if 
+X
+i
+>
+Y
+i
+X 
+i
+​
+ >Y 
+i
+​
+ , where 
+i
+i is the first index where 
+X
+X and 
+Y
+Y differ.

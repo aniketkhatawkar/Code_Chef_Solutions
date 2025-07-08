@@ -1,0 +1,30 @@
+
+Chococut
+Alice has a rectangular bar of chocolate of dimensions 
+N
+×
+M
+N×M. The bar is made up of 
+N
+⋅
+M
+N⋅M smaller 
+1
+×
+1
+1×1 squares.
+Unfortunately, Alice has to share part of the chocolate with Bob.
+
+At most once, Alice can break the rectangular bar into two smaller rectangles, either by making a vertical cut or a horizontal cut. She'll then give one of the pieces to Bob, and keep the other for herself.
+The two smaller rectangles must both have integer dimensions.
+
+Note that Alice can also choose to not break the bar at all, if she wishes to.
+
+Bob won't be happy unless he receives at least 
+K
+K of the 
+1
+×
+1
+1×1 squares of chocolate.
+What's the largest number of squares of chocolate Alice can keep with her, while ensuring that Bob is happy with what he receives?

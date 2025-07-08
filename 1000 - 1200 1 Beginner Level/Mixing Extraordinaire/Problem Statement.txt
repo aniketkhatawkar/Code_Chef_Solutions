@@ -1,0 +1,74 @@
+Mixing Extraordinaire
+Chef is feeling thirsty, and decides to make himself something to drink.
+He has 
+N
+N distinct types of juices with him. There are 
+A
+i
+A 
+i
+​
+  milliliters of the 
+i
+i-th juice.
+
+Chef is feeling adventurous, and decides to mix two different types of juices to form a single one.
+
+Formally, Chef will do the following:
+
+Choose two distinct types of drinks 
+i
+i and 
+j
+j (
+1
+≤
+i
+<
+j
+≤
+N
+1≤i<j≤N)
+Then, choose an integer 
+x
+x between 
+1
+1 and 
+A
+i
+A 
+i
+​
+  and an integer 
+y
+y between 
+1
+1 and 
+A
+j
+A 
+j
+​
+ ; and mix 
+x
+x mL of drink 
+i
+i with 
+y
+y mL of drink 
+j
+j.
+How many different mixes are available for Chef to create?
+
+Note that two mixed drinks are considered different if:
+
+The base drinks used to create the mixes are different (i.e, they have different 
+i
+i and/or 
+j
+j); or
+The quantities of base drinks used are different (i.e, they have different 
+x
+x and/or 
+y
+y)

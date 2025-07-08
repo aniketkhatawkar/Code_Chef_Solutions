@@ -1,0 +1,47 @@
+OR Permutation
+Given an integer 
+N
+N, find a permutation of size 
+N
+N such that:
+
+A
+i
+≠
+A
+i
+−
+1
+A 
+i
+​
+ =A 
+i−1
+​
+  
+∣
+∣ 
+A
+i
+−
+2
+A 
+i−2
+​
+  for all 
+3
+≤
+i
+≤
+N
+3≤i≤N, where 
+∣
+∣ denotes the bitwise or operation.
+It is guaranteed that such permutation always exists. If multiple such permutations exist, you may print any.
+Note that a permutation of size 
+N
+N consists of all integers from 
+1
+1 to 
+N
+N exactly once.

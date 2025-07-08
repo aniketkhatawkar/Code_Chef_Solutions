@@ -1,0 +1,33 @@
+Best Movie
+You want to rent a movie. There are 
+N
+N movies and the 
+i
+i-th movie has an IMDB score of 
+A
+i
+A 
+i
+​
+  and costs 
+B
+i
+B 
+i
+​
+  to rent. Note that IMDB scores can only be integers in the range 
+1
+1 to 
+10
+10 for the sake of this problem.
+
+You will only watch movies with an IMDB score of at least 
+7
+7. Find the minimum cost of a movie that you are willing to watch.
+
+There may be no movies available with an IMDB score of at least 
+7
+7. Print 
+−
+1
+−1 then.

@@ -1,0 +1,11 @@
+To Divide or Not To Divide
+Alice likes all the numbers which are divisible by 
+A
+A. Bob does not like the numbers which are divisible by 
+B
+B and likes all the remaining numbers. Determine the smallest number greater than or equal to 
+N
+N which is liked by both Alice and Bob. Output 
+−
+1
+−1 if no such number exists.

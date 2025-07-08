@@ -1,0 +1,98 @@
+Chef and Number Game
+Read problem statements in Hindi, Bengali, Mandarin Chinese, Russian, and Vietnamese as well.
+Recently, Chef hosted a strange competition at the Byteland annual fair. There were 
+N
+N participants in the competition (numbered 
+1
+1 through 
+N
+N); at the end of the competition, their scores were 
+A
+1
+,
+A
+2
+,
+…
+,
+A
+N
+A 
+1
+​
+ ,A 
+2
+​
+ ,…,A 
+N
+​
+ . Since it was a strange competition, negative scores were allowed too.
+
+The total score of the competition is calculated as follows:
+
+Divide the participants into one or more non-empty groups (subsets); if there are 
+K
+K groups, let's denote them by 
+G
+1
+,
+G
+2
+,
+…
+,
+G
+K
+G 
+1
+​
+ ,G 
+2
+​
+ ,…,G 
+K
+​
+ . Each participant should be a member of exactly one group.
+Sum up the scores of participants in each individual group. For each valid 
+i
+i, let's denote the sum of scores of participants in group 
+i
+i by 
+X
+i
+X 
+i
+​
+ .
+The total score of the competition is the sum of squares of these summed up scores, i.e. 
+X
+1
+2
++
+X
+2
+2
++
+…
++
+X
+K
+2
+X 
+1
+2
+​
+ +X 
+2
+2
+​
+ +…+X 
+K
+2
+​
+ .
+Chef wants to choose the groups in such a way that the total score is maximum possible. Since there may be many ways to form the groups that lead to the maximum total score, Chef wants to know just the size of the largest group and the size of the smallest group which could be formed while still maximising the total score. These sizes are independent - formally, they are the maximum and minimum size 
+s
+s of a group such that there is a way to form groups which maximises the total score and contains a group with size 
+s
+s.

@@ -1,0 +1,88 @@
+How Many Maximums
+From an array 
+A
+A containing 
+N
+N integers, you construct a binary string 
+S
+S of length 
+(
+N
+−
+1
+)
+(N−1) as follows. For all 
+1
+≤
+i
+<
+N
+1≤i<N:
+
+If 
+A
+i
+<
+A
+i
++
+1
+A 
+i
+​
+ <A 
+i+1
+​
+ , then 
+S
+i
+=
+0
+S 
+i
+​
+ =0.
+If 
+A
+i
+>
+A
+i
++
+1
+A 
+i
+​
+ >A 
+i+1
+​
+ , then 
+S
+i
+=
+1
+S 
+i
+​
+ =1.
+Given the string 
+S
+S, determine the count of indices 
+i
+i 
+(
+1
+≤
+i
+≤
+N
+)
+(1≤i≤N) such that it is possible for 
+A
+i
+A 
+i
+​
+  to be the maximum element of the array 
+A
+A.

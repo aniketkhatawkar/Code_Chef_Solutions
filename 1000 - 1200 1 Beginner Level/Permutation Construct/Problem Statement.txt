@@ -1,0 +1,65 @@
+Permutation Construct
+A permutation of length 
+N
+N is an array of length 
+N
+N that contains every integer from 
+1
+1 to 
+N
+N exactly once.
+
+Given 
+N
+N and 
+K
+K, find a permutation 
+P
+P of length 
+N
+N satisfying the following constraints:
+
+P
+i
+≠
+i
+P 
+i
+​
+ =i for all 
+1
+≤
+i
+≤
+N
+1≤i≤N
+P
+i
+ 
+m
+o
+d
+ 
+K
+=
+i
+ 
+m
+o
+d
+ 
+K
+P 
+i
+​
+ modK=imodK for all 
+1
+≤
+i
+≤
+N
+1≤i≤N
+In case no such permutation exists, output 
+−
+1
+−1 instead.

@@ -1,0 +1,38 @@
+Nutrition Cost
+There are 
+N
+N different food items, each providing an essential vitamin 
+A
+i
+A 
+i
+​
+  and costing 
+B
+i
+B 
+i
+​
+ . There is an integer parameter 
+C
+C which represents the value of a single vitamin to you.
+
+You will buy some of the food items to maximize 
+C
+⋅
+X
+−
+Y
+C⋅X−Y (
+C
+C multiplied by 
+X
+X minus 
+Y
+Y), where 
+X
+X represents the number of distinct vitamins eaten, and 
+Y
+Y represents the total cost of all the food items. Find this maximum possible value. It is also possible to buy no food item at all, in which case the answer is simply 
+0
+0.

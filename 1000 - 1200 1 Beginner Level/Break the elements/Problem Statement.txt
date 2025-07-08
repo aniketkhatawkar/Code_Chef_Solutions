@@ -1,0 +1,33 @@
+Break the elements
+Chef has an array 
+A
+A of length 
+N
+N. In one operation, Chef can choose any element 
+A
+i
+A 
+i
+​
+  and split it into two positive integers 
+X
+X and 
+Y
+Y such that 
+X
++
+Y
+=
+A
+i
+X+Y=A 
+i
+​
+ .
+Note that the length of array increases by 
+1
+1 after every operation.
+
+Determine the minimum numbers of operations required by Chef to make parity of all the elements same.
+
+It is guaranteed that parity of all the elements can be made equal after applying the above operation zero or more times.

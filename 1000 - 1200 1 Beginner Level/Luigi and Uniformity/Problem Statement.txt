@@ -1,0 +1,56 @@
+Luigi and Uniformity
+Luigi has an array 
+A
+A of 
+N
+N positive integers. He wants to make all elements of the array equal.
+
+In one move, he can:
+
+Choose an index 
+i
+i 
+(
+1
+≤
+i
+≤
+N
+)
+(1≤i≤N) and divide the element 
+A
+i
+A 
+i
+​
+  by any one of its divisors.
+In other words, he can choose a positive integer 
+X
+X such that 
+X
+∣
+A
+i
+X∣A 
+i
+​
+  and set 
+A
+i
+:
+=
+A
+i
+X
+A 
+i
+​
+ := 
+X
+A 
+i
+​
+ 
+​
+ .
+Find the minimum number of moves required to make all the elements of the array equal.

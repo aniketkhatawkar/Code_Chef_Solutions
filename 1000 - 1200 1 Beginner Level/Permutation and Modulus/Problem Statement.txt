@@ -1,0 +1,71 @@
+Permutation and Modulus
+Given an integer 
+N
+N, find a permutation 
+P
+=
+P
+1
+,
+P
+2
+,
+…
+,
+P
+N
+P=P 
+1
+​
+ ,P 
+2
+​
+ ,…,P 
+N
+​
+  of length 
+N
+N that satisfies the following two conditions:
+
+P
+i
+≠
+i
+P 
+i
+​
+ =i 
+(
+1
+≤
+i
+≤
+N
+)
+(1≤i≤N);
+Consider the set which contains 
+P
+i
+P 
+i
+​
+  
+%
+% 
+i
+i for all 
+1
+≤
+i
+≤
+N
+1≤i≤N. This set should have the minimum number of distinct integers possible, over all permutations 
+P
+P.
+Note that a permutation of length 
+N
+N is an array containing every integer from 
+1
+1 to 
+N
+N exactly once.

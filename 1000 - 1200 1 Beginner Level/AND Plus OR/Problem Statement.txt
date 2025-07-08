@@ -1,0 +1,27 @@
+AND Plus OR
+Read problem statements in Hindi, Bengali, Mandarin Chinese, Russian, and Vietnamese as well.
+Given an integer 
+x
+x, find two non-negative integers 
+a
+a and 
+b
+b such that 
+(
+a
+∧
+b
+)
++
+(
+a
+∨
+b
+)
+=
+x
+(a∧b)+(a∨b)=x, where 
+∧
+∧ is the bitwise AND operation and 
+∨
+∨ is the bitwise OR operation.

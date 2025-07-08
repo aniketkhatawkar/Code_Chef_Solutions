@@ -1,0 +1,34 @@
+Count Odd Even Divisors
+You have an integer 
+N
+N, and you want to calculate the number of odd divisors of 
+N
+N, and the number of even divisors of 
+N
+N.
+
+For example, 
+2
+2 has 
+1
+1 odd divisor (which is 
+1
+1), and 
+1
+1 even divisor (which is 
+2
+2). 
+8
+8 has 
+1
+1 odd divisor (which is 
+1
+1) and 
+3
+3 even divisors (which are 
+2
+,
+4
+,
+8
+2,4,8).

@@ -1,0 +1,96 @@
+Trace of Matrix
+Read problems statements in Mandarin chinese and Vietnamese as well.
+Chef is learning linear algebra. Recently, he learnt that for a square matrix 
+M
+M, 
+t
+r
+a
+c
+e
+(
+M
+)
+trace(M) is defined as the sum of all elements on the main diagonal of 
+M
+M (an element lies on the main diagonal if its row index and column index are equal).
+
+Now, Chef wants to solve some excercises related to this new quantity, so he wrote down a square matrix 
+A
+A with size 
+N
+×
+N
+N×N. A square submatrix of 
+A
+A with size 
+l
+×
+l
+l×l is a contiguous block of 
+l
+×
+l
+l×l elements of 
+A
+A. Formally, if 
+B
+B is a submatrix of 
+A
+A with size 
+l
+×
+l
+l×l, then there must be integers 
+r
+r and 
+c
+c (
+1
+≤
+r
+,
+c
+≤
+N
++
+1
+−
+l
+1≤r,c≤N+1−l) such that 
+B
+i
+,
+j
+=
+A
+r
++
+i
+−
+1
+,
+c
++
+j
+−
+1
+B 
+i,j
+​
+ =A 
+r+i−1,c+j−1
+​
+  for each 
+1
+≤
+i
+,
+j
+≤
+l
+1≤i,j≤l.
+
+Help Chef find the maximum trace of a square submatrix of 
+A
+A.

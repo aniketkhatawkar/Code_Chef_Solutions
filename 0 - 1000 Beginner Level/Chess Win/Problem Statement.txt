@@ -1,0 +1,14 @@
+Chess Win
+You are playing many chess matches against Magnus. Every match is either a win or loss.
+
+Unsurprisingly, you are currently losing. The current score is 
+A
+:
+B
+A:B, where 
+A
+A is the number of matches you have won, and 
+B
+B is the number of matches Magnus has won.
+
+You want to beat Magnus, i.e. win more matches than Magnus at the end. What is the minimum number of matches you still need to play to have any chance of being able to beat him?

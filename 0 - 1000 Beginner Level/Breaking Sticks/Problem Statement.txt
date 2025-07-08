@@ -1,0 +1,50 @@
+Breaking Sticks
+You have 
+N
+N sticks, of integral lengths 
+A
+1
+,
+A
+2
+,
+.
+.
+.
+,
+A
+N
+A 
+1
+​
+ ,A 
+2
+​
+ ,...,A 
+N
+​
+ .
+
+You can take any stick of length 
+X
+X and break it into 
+2
+2 positive integer lengths 
+Y
+Y and 
+Z
+Z such that 
+Y
++
+Z
+=
+X
+Y+Z=X, i.e. now instead of the stick of length 
+X
+X, you obtained one stick of length 
+Y
+Y and another of length 
+Z
+Z.
+
+One such action is called a break. Find the maximum number of breaks you can perform.

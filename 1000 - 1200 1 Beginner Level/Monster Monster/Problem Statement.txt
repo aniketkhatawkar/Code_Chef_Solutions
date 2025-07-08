@@ -1,0 +1,26 @@
+Monster Monster
+You have run into an army of 
+N
+N monsters, and you must defeat them all!
+
+Each monster has a certain amount of health points (HP) which you know beforehand — the 
+i
+i-th monster has 
+H
+i
+H 
+i
+​
+  HP.
+You can attack exactly one monster per day, and only if your attack stat 
+A
+A is greater than or equal to the monster's HP. In other words, you can attack a monster only if you can defeat it in a single hit.
+
+At the end of each day, the HP of each alive monster increases by a fixed value, 
+X
+X.
+
+Find the minimum possible value of the attack stat 
+A
+A you need to be able to kill all the monsters.
+Note that you're allowed to kill the monsters in any order you like.

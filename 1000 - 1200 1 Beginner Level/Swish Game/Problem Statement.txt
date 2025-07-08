@@ -1,0 +1,34 @@
+Swish Game
+Toofan is playing an exciting game where there are 
+N
+N rings, and for each ring, Toofan can either SWISH or PASS. The goal of the game is to achieve at least 
+K
+K swishes.
+
+The game will end immediately when at least one of the following two conditions is met:
+
+Toofan has finished all the 
+N
+N rings; or
+It it impossible to win the game any more.
+This means it is impossible for Toofan to get at least 
+K
+K swishes, regardless of what he does with the remaining rings.
+Toofan knows the value of 
+K
+K (the number of swishes he must achieve), and remembers the sequence of moves he made. However, he no longer remembers the value of 
+N
+N (the total number of rings).
+You are given a string 
+S
+S of length 
+M
+M, denoting the moves Toofan made during the game. Each character of 
+S
+S is either S (denoting a swish) or P (denoting a pass).
+
+Given that Toofan ended the game after exactly this sequence of 
+M
+M moves, what could the value of 
+N
+N be?

@@ -1,0 +1,99 @@
+Retrieve the Array
+Chef has an array 
+A
+A of length 
+N
+N.
+
+Let 
+f
+(
+i
+)
+f(i) denote the sum 
+A
+1
++
+A
+2
++
+⋯
++
+A
+i
+ 
+A 
+1
+​
+ +A 
+2
+​
+ +⋯+A 
+i
+​
+  and let 
+g
+(
+i
+)
+g(i) denote the sum 
+A
+i
++
+A
+i
++
+1
++
+⋯
++
+A
+N
+A 
+i
+​
+ +A 
+i+1
+​
+ +⋯+A 
+N
+​
+ .
+
+Chef creates another array 
+B
+B of length 
+N
+N such that 
+B
+i
+=
+f
+(
+i
+)
++
+g
+(
+i
+)
+B 
+i
+​
+ =f(i)+g(i) for all 
+1
+≤
+i
+≤
+N
+1≤i≤N.
+
+Now, Chef has lost the original array 
+A
+A and needs your help to recover it, given array 
+B
+B. It is guaranteed that Chef has obtained the array 
+B
+B from a valid array 
+A
+A.

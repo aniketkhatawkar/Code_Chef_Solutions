@@ -1,0 +1,33 @@
+Rock Paper Scissors
+Chef and Roku are locked in an epic Rock, Paper, Scissors battle consisting of 
+N
+N games.
+However, Chef has a secret weapon: he found a note revealing Roku's entire sequence of moves beforehand!
+
+You are given a string 
+A
+A, where 
+A
+i
+A 
+i
+​
+  represents Roku's planned move in the 
+i
+t
+h
+i 
+th
+  game.
+Each character of 
+A
+A is one of 'R', 'P', and 'S', denoting Rock, Paper, and Scissors, respectively.
+
+Determine the maximum number of games Chef can win, if he is not allowed to make the same move twice consecutively.
+
+Note: In a classic game of Rock, Paper, Scissors, both players choose one of the three moves simultaneously, and the winner is decided as follows:
+
+Rock crushes Scissors (Rock wins)
+Paper covers Rock (Paper wins)
+Scissors cut Paper (Scissors wins)
+If both players choose the same move, it's a draw.

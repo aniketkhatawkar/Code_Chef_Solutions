@@ -1,0 +1,71 @@
+Diagonal movement
+Given the coordinates 
+(
+x
+,
+y
+)
+(x,y) of a point in 2-D plane. Find if it is possible to reach 
+(
+x
+,
+y
+)
+(x,y) from 
+(
+0
+,
+0
+)
+(0,0). The only possible moves from any coordinate 
+(
+i
+,
+j
+)
+(i,j) are as follows:
+
+Go to the point with coordinates 
+(
+i
++
+1
+,
+j
++
+1
+)
+(i+1,j+1).
+Go to the point with coordinates 
+(
+i
++
+1
+,
+j
+−
+1
+)
+(i+1,j−1)
+Go to the point with coordinates 
+(
+i
+−
+1
+,
+j
++
+1
+)
+(i−1,j+1).
+Go to the point with coordinates 
+(
+i
+−
+1
+,
+j
+−
+1
+)
+(i−1,j−1).

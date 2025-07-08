@@ -1,0 +1,75 @@
+Subset Sum 3
+You are given an array 
+A
+A of 
+N
+N integers. Determine if their exists a non-empty subsequence
+†
+†
+  of 
+A
+A such that the sum is divisible by 
+3
+3.
+
+Print 
+Yes
+Yes or 
+No
+No accordingly. You do not need to print an example of such a subset.
+
+†
+†
+  
+B
+B is said to be a subset of 
+A
+A if 
+B
+B can be formed by deleting some elements in 
+A
+A without rearranging the order of the remaining elements. For example, 
+[
+1
+,
+2
+]
+[1,2], 
+[
+1
+,
+1
+,
+2
+,
+3
+]
+[1,1,2,3], 
+[
+2
+,
+3
+]
+[2,3] are valid subsequences of 
+[
+1
+,
+1
+,
+2
+,
+3
+]
+[1,1,2,3] but 
+[
+2
+,
+1
+]
+[2,1] or 
+[
+2
+,
+2
+]
+[2,2] is not.

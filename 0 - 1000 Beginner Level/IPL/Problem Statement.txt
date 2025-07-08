@@ -1,0 +1,15 @@
+IPL
+Chef has already prepared dinner, and it's his favorite time of the day. It's time for a fantastic cricket match tonight.
+
+If the number of runs scored in an over is at least 7, Chef cheers "THALA"; otherwise, he cheers "BOOM".
+
+You are given 
+X
+X, the number of runs scored in the over.
+
+If 
+X
+X is at least 
+7
+7, print THALA.
+Otherwise, print BOOM.

@@ -1,0 +1,32 @@
+Minimum XOR
+You have 
+N
+N integers - 
+A
+1
+,
+A
+2
+,
+…
+,
+A
+N
+A 
+1
+​
+ ,A 
+2
+​
+ ,…,A 
+N
+​
+ .
+
+You have to make the Bitwise XOR of all the elements as minimum as possible.
+
+You are allowed to remove at most one element. Note that this means that you can also choose to not remove any element.
+
+What is the final minimum XOR that you can achieve after removing at most one element?
+
+Note: In most programming languages, the XOR of two variables x and y can be computed using x ^ y.

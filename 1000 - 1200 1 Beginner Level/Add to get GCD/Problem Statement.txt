@@ -1,0 +1,42 @@
+Add to get GCD
+You have 
+2
+2 integers 
+X
+X and 
+Y
+Y.
+
+You goal is to make them have a common divisor which is not 
+1
+1, i.e. there should exist 
+Z
+>
+1
+Z>1 such that 
+Z
+Z divides 
+X
+X and 
+Z
+Z divides 
+Y
+Y.
+
+In one operation, you can do either of the following:
+
+Set 
+X
+X to 
+X
++
+1
+X+1.
+Set 
+Y
+Y to 
+Y
++
+1
+Y+1.
+Find the minimum number of operations needed to achieve your goal.
